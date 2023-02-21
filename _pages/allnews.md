@@ -1,7 +1,7 @@
 ---
-title: "Sanders Lab - News"
+title: "CSDA Lab - News"
 layout: textlay
-excerpt: "Sanders Lab at UCSF."
+excerpt: "CSDA Lab at UWF."
 sitemap: false
 permalink: /allnews.html
 ---
