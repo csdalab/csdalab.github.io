@@ -10,7 +10,7 @@ title: The CSDA Lab
 email: acohen@uwf.edu
 description: 
 baseurl: "/csda"
-url: ""
+url: " "
 
 include:
   - .htaccess
