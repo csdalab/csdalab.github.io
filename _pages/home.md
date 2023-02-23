@@ -6,13 +6,13 @@ sitemap: false
 permalink: /
 ---
 
-# Computation Statistics and Data Analytics Lab at UWF
+# Computational Statistics and Data Analytics Lab at UWF
 
 
  ![]({{ site.url }}{{ site.baseurl }}/images/csda.png){: style="width: 170px; float: left;margin-right: 20px; border: 10px"} <br>
 
 
-**CSDA (Computational Statisitcs and Data Analytics)** is a research group in the Department of Mathematics and Statistics at Hal Marcus College of Science and Engineering at the University of West Florida, working on research projects in data science, statistical process monitoring, computational neuroscience, probability distributions, and applied machine learning.<br>
+**CSDA (Computational Statistics and Data Analytics)** is a research group in the Department of Mathematics and Statistics, the Hal Marcus College of Science and Engineering at the University of West Florida, working on research projects in data science, statistical process monitoring, computational neuroscience, probability distributions, and applied machine learning.<br>
 
 
 There are four main areas of research:
