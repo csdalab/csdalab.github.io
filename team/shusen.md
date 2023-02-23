@@ -2,7 +2,7 @@
 layout: member
 title: Shusen Pu
 position: Assistant Professor 
-handle: spu
+handle: shusen
 email: spu@uwf.edu 
 twitter:
 github:

@@ -2,11 +2,11 @@
 layout: member
 title: Achraf Cohen
 position: Assistant Professor / Statistician
-handle: acohen
+handle: achraf
 email: acohen@uwf.edu 
 twitter:
-github:
-scholar: 
+github: acohenstat
+scholar: https://www.researchgate.net/profile/Achraf-Cohen
 photo: achraf.jpg
 ---
 

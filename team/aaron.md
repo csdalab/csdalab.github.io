@@ -2,7 +2,7 @@
 layout: member
 title: Aaron Stringfellow
 position: Graduate Student
-handle: as394
+handle: aaron
 email: as394@students.uwf.edu 
 twitter:
 github:
