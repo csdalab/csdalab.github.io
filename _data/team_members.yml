@@ -34,14 +34,14 @@
   url: nitul
   group: 1
   
-- name: Raine Brooks 
+- name: Ming Huang
   photo: 
-  info: Undergraduate Student
-  url: 
-  group: 2
-
+  info: Graduate Student
+  url: ming
+  group: 1
+  
 - name: Alex 
   photo: 
   info: Undergraduate Student
-  url: 
+  url: alex
   group: 2

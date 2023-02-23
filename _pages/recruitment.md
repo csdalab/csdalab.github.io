@@ -8,11 +8,11 @@ permalink: /recruitment/
 
 # Open positions
 
-Thank you for your interest in joining the Sanders Lab.
+Thank you for your interest in joining the CSDA Lab.
 
 ## Undergraduate and graduate students
 
-If you are interested in a rotation in the CSDA Lab, please contact Dr. Cohen (acohen@uwf.edu) or Dr. Pu (spu@uwf.edu). We are primarily a data science lab working on data-driven methods, statistical modeling, computational mathematics, predictive models, and machine learning methods. So a background in coding helps students make the most of their experience.
+If you are interested in a rotation in the CSDA Lab, please email Dr. Cohen (acohen@uwf.edu) and Dr. Pu (spu@uwf.edu). We are primarily a data-driven Lab working on statistical modeling, computational statistics, predictive models, and machine learning application. So a background in coding helps students make the most of their experience.
 
 
 

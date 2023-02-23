@@ -12,11 +12,11 @@ photo:
 
 ### Overview
 
-Aaron Stringfellow is currently enrolled in MS Data Science at the School of Science and Engineering, University of West Florida, Pensacola FL, USA. 
+Aaron Stringfellow is currently enrolled in MS Data Science in the Department of Mathematics and Statistics at the Hal Marcus College of Science and Engineering, University of West Florida.
 
 
 ### Short description of your current research project:
 
-Working on developed new family fo distributions using the Ristic-Balakrishnan and Harris-G distributions.
+Working on developing new family of probability distributions using the Ristic-Balakrishnan and Harris-G distributions.
 
 

@@ -12,7 +12,7 @@ photo:
 
 ### Overview
 
-Nitul Singha is currently enrolled in MS Data Science at the School of Science and Engineering, University of West Florida, Pensacola FL, USA. 
+Nitul Singha is currently enrolled in MS Data Science in the Department of Mathematics and Statistics at the Hal Marcus College of Science and Engineering, University of West Florida. 
 
 
 ### Short description of your current research project:
