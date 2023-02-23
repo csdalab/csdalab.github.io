@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - About"
+title: "CSDA Lab - About"
 layout: textlay
-excerpt: "Allan Lab -- About"
+excerpt: "CSDA Lab -- About"
 sitemap: false
 permalink: /about/
 ---

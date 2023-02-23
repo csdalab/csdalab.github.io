@@ -1,13 +1,13 @@
 ---
 layout: member
 title: Achraf Cohen
-position: faculty
+position: Assistant Professor / Statistician
 handle: acohen
 email: acohen@uwf.edu 
 twitter:
 github:
 scholar: 
-photo: 
+photo: achraf.jpg
 ---
 
 ### Overview

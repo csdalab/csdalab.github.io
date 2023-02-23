@@ -1,7 +1,7 @@
 ---
-title: "Sanders Lab - Publications"
+title: "CSDA Lab - Publications"
 layout: gridlay
-excerpt: "Sanders Lab -- Publications."
+excerpt: "CSDA Lab -- Publications."
 sitemap: false
 permalink: /publications/
 ---
@@ -52,7 +52,7 @@ permalink: /publications/
 <div>
 ## Full List
 
-For a full list, please go to <a class="regtext" href="https://scholar.google.com/citations?user=O1EuSPYAAAAJ">Google Scholar</a> or <a class="regtext" href="https://www.ncbi.nlm.nih.gov/pubmed?term=Sanders%20SJ%5BAuthor%5D">Pubmed</a>.
+For a full list, please go to <a class="regtext" href="https://scholar.google.fr/citations?user=HEa6jo4AAAAJ&hl=fr">Google Scholar</a> 
 <br><br><br>
 
 </div>

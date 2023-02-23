@@ -1,35 +1,47 @@
 - name: Achraf Cohen
-  photo: 
-  info: Assitant Professor
-  url: 
+  photo: achraf.jpg
+  info: Assistant Professor / Statistician
+  url: achraf
   group: 0
   
 - name: Shusen Pu
-  photo: 
-  info: Assitant Professor
-  url: 
+  photo: shusen.png
+  info: Assistant Professor
+  url: shusen
   group: 0
   
 - name: Aaron Stringfellow
   photo: 
   info: Graduate Student
-  url: 
+  url: aaron
   group: 1
 
 - name: Leon Schröder
   photo: 
   info: Graduate Student
-  url: davidyoung
+  url: leon
   group: 1
 
 - name: Muhammad Usman Aslam
-  photo: 
+  photo: usman.jpg
   info: Graduate Student
-  url: 
+  url: usman
   group: 1
 
 - name: Nitul Singha
   photo: 
   info: Graduate Student
-  url: 
+  url: nitul
   group: 1
+  
+- name: Raine Brooks 
+  photo: 
+  info: Undergraduate Student
+  url: 
+  group: 2
+
+- name: Alex 
+  photo: 
+  info: Undergraduate Student
+  url: 
+  group: 2

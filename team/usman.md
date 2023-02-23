@@ -7,7 +7,7 @@ email: ma263@students.uwf.edu
 twitter:
 github:
 scholar: 
-photo: ma263.jpg
+photo: usman.jpg
 ---
 
 ### Overview
