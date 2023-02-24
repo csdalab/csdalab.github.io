@@ -28,6 +28,7 @@ The CSDA Lab is primarily a data analytics group that uses a wide range of stati
 
 ### Collaborators
 - Thatayaone Moakofi, PhD Statistics Student in the Department of Mathematics and Statistical Sciences, Botswana International University of Science and Technology. Email: thatayaone.moakofi@studentmail.biust.ac.bw 
+- Prof. Broderick Oluyede
 
 ### Joining CSDA Lab
 If you are interested in joining please go to the [recruitment](recruitment) page.
