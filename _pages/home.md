@@ -7,6 +7,8 @@ permalink: /
 ---
 
  ![]({{ site.url }}{{ site.baseurl }}/images/csda.png){: style="width: 100px; float: left;margin-right: 20px; border: 10px"} <br>
+ 
+ 
  # Computational Statistics and Data Analytics Lab at UWF
 
 
