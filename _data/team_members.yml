@@ -10,12 +10,6 @@
   url: shusen
   group: 0
   
-- name: Aaron Stringfellow
-  photo: 
-  info: Graduate Student
-  url: aaron
-  group: 1
-
 - name: Leon Schröder
   photo: 
   info: Graduate Student
@@ -40,6 +34,18 @@
   url: ming
   group: 1
   
+- name: Moses Pon
+  photo: 
+  info: Graduate Student
+  url: moses
+  group: 1
+  
+- name: Aaron Stringfellow
+  photo: 
+  info: Undergraduate Student
+  url: aaron
+  group: 2
+
 - name: Alex 
   photo: 
   info: Undergraduate Student
