@@ -18,7 +18,7 @@ permalink: /
 
 There are four main areas of research:
 
-1. **Statistical modeling**: Applying statistics to solve various and multidisciplinary problems including Biology, Chemistry, Education, Sports, Health, to name a few.
+1. **Statistical modeling / Data Science Projects**: Applying statistics to solve various and multidisciplinary problems including Biology, Chemistry, Education, Sports, Health, to name a few.
 2. **Statistical process monitoring**: Developing and evaluating statistical methods used in system monitoring. 
 3. **Neuroscience**: Leveraging machine learning / statistical techniques to understand the brain neurons connections. 
 4. **Probability distributions**: Studying and investigating new probability distributions.
