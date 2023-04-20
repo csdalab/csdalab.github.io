@@ -7,12 +7,11 @@ permalink: /research/
 ---
 
 # Research Highlights
-
 ---
 
 <!-- ![]({{ site.url }}{{ site.baseurl }}/images/respic/.png){: style="width: 300px; float: left;margin-right: 30px; border: 10px"} -->
 
-## Data Science Trends
+### Data Science Trends using Social and Scientific Interests Metrics
 <div style="text-align: justify">
 TBD
 </div>
@@ -21,7 +20,7 @@ TBD
 
 <!-- ![]({{ site.url }}{{ site.baseurl }}/images/respic/.png){: style="width: 300px; float: left;margin-right: 30px; border: 10px"} -->
 
-## The impact of Imputation Methods on the Performance of Phase I of T2 control chart 
+### The impact of Imputation Methods on the Performance of Phase I of T2 control chart 
 <div style="text-align: justify">
 TBD
 </div>
@@ -44,4 +43,7 @@ TBD
 </div>
 ---
 
-
+## Veterans Disability Compensation Recipients in the USA in 2021
+<div style="text-align: justify">
+</div>
+---
