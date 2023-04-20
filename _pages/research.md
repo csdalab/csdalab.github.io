@@ -6,7 +6,7 @@ sitemap: false
 permalink: /research/
 ---
 
-# Research Highlights
+## Research Highlights
 ---
 
 <!-- ![]({{ site.url }}{{ site.baseurl }}/images/respic/.png){: style="width: 300px; float: left;margin-right: 30px; border: 10px"} -->
