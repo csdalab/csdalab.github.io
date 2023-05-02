@@ -34,11 +34,11 @@
   url: ming
   group: 1
   
-- name: Moses Pon
-  photo: moses.jpg
-  info: Graduate Student
-  url: moses
-  group: 1
+# - name: Moses Pon
+#   photo: moses.jpg
+#   info: Graduate Student
+#   url: moses
+#   group: 1
   
 - name: Aaron Stringfellow
   photo: 
