@@ -12,9 +12,9 @@ permalink: /research/
 <!-- ![]({{ site.url }}{{ site.baseurl }}/images/respic/.png){: style="width: 300px; float: left;margin-right: 30px; border: 10px"} -->
 
 ### Data Science Trends using Social and Scientific Interests Metrics
-<!-- <div style="text-align: justify"> -->
-<!-- TBD
-</div> -->
+ <div style="text-align: justify"> 
+![]({{ site.url }}{{ site.baseurl }}/images/respic/.png){: style="width: 300px; float: left;margin-right: 30px; border: 10px"}
+</div>
 ---- 
 
 
@@ -28,7 +28,7 @@ permalink: /research/
 
 <!-- ![]({{ site.url }}{{ site.baseurl }}/images/respic/.png){: style="width: 300px; float: left;margin-right: 30px; border: 10px"} -->
 
-## Ristic-Balakrishnan-Harris-G Distributions 
+### Ristic-Balakrishnan-Harris-G Distributions 
 <div style="text-align: justify">
 </div>
 ----
@@ -36,12 +36,12 @@ permalink: /research/
 
 <!-- ![]({{ site.url }}{{ site.baseurl }}/images/respic/.png){: style="width: 300px; float: left;margin-right: 30px; border: 10px"} -->
 
-## Predicting cheery blossom day of the year
+### Predicting cheery blossom day of the year
 <div style="text-align: justify">
 </div>
 ---
 
-## Veterans Disability Compensation Recipients in the USA in 2021
+### Veterans Disability Compensation Recipients in the USA in 2021
 <div style="text-align: justify">
 </div>
 ---
