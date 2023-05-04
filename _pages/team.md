@@ -111,7 +111,7 @@ permalink: /team/
 
 ---
 
-## Previous Students
+## Alumni
 
 {% for member in site.data.team_members %}
 {% if member.group == 8 %}
