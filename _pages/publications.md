@@ -49,12 +49,12 @@ permalink: /publications/
 
 ---
 
-<div>
+<!-- <div>
 ## Full List
 
 For a full list, please go to 
 <a class="regtext" href="https://scholar.google.fr/citations?user=HEa6jo4AAAAJ&hl=fr" target="_blank">Google Scholar</a> 
 <br><br><br>
 
-</div>
+</div> -->
 
