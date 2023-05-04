@@ -57,9 +57,25 @@
   info: Undergraduate Student
   url: raine
   group: 2
+  year: 2023
 
 - name: Daniel Boyd
   photo: 
   info: Undergraduate Student
   url: daniel
   group: 8
+  year: 2023
+  
+- name: Austin Williams
+  photo: 
+  info: Undergraduate Student
+  url: 
+  group: 8
+  year: 2022
+  
+- name: Nhan Thao
+  photo: 
+  info: Undergraduate Student
+  url: 
+  group: 8
+  year: 2021
