@@ -12,8 +12,7 @@ photo: achraf.jpg
 
 ### Overview
 
-Achraf Cohen is Assistant Professor in the Department of Mathematics and Statistics. He joined The University of West Florida (UWF) in 2016 as a Postdoctoral Teaching Associate. He began
-his tenure track appointment (Assistant Professor) at UWF in August 2018 in the Department.
+Achraf Cohen is Assistant Professor in the Department of Mathematics and Statistics. He joined The University of West Florida (UWF) in 2016 as a Postdoctoral Teaching Associate. He began his tenure track appointment (Assistant Professor) at UWF in August 2018 in the Department.
 He teach Statistics and Data Science courses to graduate and undergraduate students.
 
 
