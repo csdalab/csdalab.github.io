@@ -6,8 +6,5 @@ sitemap: false
 permalink: /data/
 ---
 
-# Data
-
----
-
-## Coming soon
+## Data
+ Coming soon
