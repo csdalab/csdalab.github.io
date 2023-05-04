@@ -12,9 +12,9 @@ permalink: /research/
 <!-- ![]({{ site.url }}{{ site.baseurl }}/images/respic/.png){: style="width: 300px; float: left;margin-right: 30px; border: 10px"} -->
 
 ### Data Science Trends using Social and Scientific Interests Metrics
- <div style="text-align: justify"> 
+<!--  <div style="text-align: justify"> 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/.png){: style="width: 300px; float: left;margin-right: 30px; border: 10px"}
-</div>
+</div> -->
 ---- 
 
 
