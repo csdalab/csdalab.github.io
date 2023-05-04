@@ -7,9 +7,9 @@ permalink: /code/
 ---
 
 
-# Code
-## Coming soon
----
+## Code
+
+Coming soon
 
 <!-- ## [PsychCore Genomics Pipeline](https://github.com/sanderslab/psychcore-compute-platform) 
 
@@ -21,4 +21,3 @@ This containerized pipeline was developed for high-throughput parallel processin
 - <a href="https://github.com/sanderslab/psychcore-compute-platform"><i class='fab fa-github'></i> Source</a>
 - <a href="https://www.biorxiv.org/content/10.1101/585430v1"><i class='fa fa-book'></i> Paper</a> -->
 
----
