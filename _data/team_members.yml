@@ -51,12 +51,18 @@
   info: Undergraduate Student
   url: alex
   group: 2
-
+  
+- name: Allan Chung
+  photo: allan.jpeg
+  info: Undergraduate Student
+  url: allan
+  group: 2
+  
 - name: Raine Brooks
   photo: 
   info: Undergraduate Student
   url: raine
-  group: 2
+  group: 8
   year: 2023
 
 - name: Daniel Boyd
