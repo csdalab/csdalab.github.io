@@ -12,20 +12,28 @@ permalink: /
  
 ## Computational Statistics and Data Analytics Lab at UWF
 
-
 **CSDA** (Computational Statistics and Data Analytics) is a **student-centered** research group in the Department of Mathematics and Statistics, the Hal Marcus College of Science and Engineering at the University of West Florida, working on research projects in data science, statistical process monitoring, computational neuroscience, probability distributions, and applied machine learning.<br>
 
+**CSDA** (Computational Statistics and Data Analytics) is a **student-centered research group** in the Department of Mathematics and Statistics, the Hal Marcus College of Science and Engineering at the University of West Florida, working on research projects in data science, statistical process monitoring, computational neuroscience, probability distributions, applied machine learning and AI. The following are main areas of research (but not limited to):
 
-There are four main areas of research:
+- **Statistical / Predictive modeling**: Applying statistics and machine learning to solve multidisciplinary problems in Engineering, Biology, Chemistry, Education, Sports, and Health, to name a few.
+- **Statistical process monitoring**: Developing and evaluating statistical methods for system monitoring purposes, including fault detection and diagnostics, health monitoring, profile monitoring, IoT monitoring, image monitoring, etc.
+- **Probability distributions**: Investigating and developing new probability distributions for various applications.
+- **Neuroscience**: Leveraging machine learning / statistical modeling to understand the brain neuron connections.
+- **Tooling**: Developing R packages and Shiny apps.
 
-1. **Statistical modeling / Data Science Projects**: Applying statistics to solve various and multidisciplinary problems including Biology, Chemistry, Education, Sports, Health, to name a few.
-2. **Statistical process monitoring**: Developing and evaluating statistical methods used in system monitoring. 
-3. **Neuroscience**: Leveraging machine learning / statistical techniques to understand the brain neurons connections. 
-4. **Probability distributions**: Studying and investigating new probability distributions.
+## Methods and Technologies
 
+The CSDA Lab is primarily a data analytics group that uses a wide range of statistical and mathematical methods, including:
+- Exploratory Statistical Analysis: Principal component analysis (PCA), multiple correspondence analysis (MCA), and more.
+- Statistical Modeling: Poisson regression, Negative Binomial regression, Zero-Inflated models, Gamma regression, Mixed models, Time Series, hypothesis testing, Cox models, and more.
+- Clustering techniques: k-means, latent class analysis (LCA), and more.
+- Classification: SVM, regressions, Random forest, and more.
+- Predictive models: RNN, CNN, regression, LSTM, and more.
+- Imputation methods: MICE, EM, and more.
+- Signal processing: Wavelet analysis, Fourier transforms, multiscale analaysis, and more. 
+- Tools: R, Quarto, Python, SAS, and MATLAB.
 
-### Technologies and methods
-The CSDA Lab is primarily a data analytics group that uses a wide range of statistical and mathematical methods including: generalized linear mixed models, clustering techniques, predictive models, machine learning, latent class analysis, hypothesis testing, imputation methods using R/Python/SAS/MATLAB.
 
 ### Collaborators
 - Thatayaone Moakofi, PhD Statistics Student in the Department of Mathematics and Statistical Sciences, Botswana International University of Science and Technology. Email: thatayaone.moakofi@studentmail.biust.ac.bw 
