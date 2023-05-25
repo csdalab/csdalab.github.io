@@ -1,6 +1,6 @@
 - name: Achraf Cohen
   photo: achraf.jpg
-  info: Assistant Professor / Statistician
+  info: Associate Professor / Statistician
   url: achraf
   group: 0
   
@@ -34,6 +34,12 @@
   url: ming
   group: 1
   
+- name: Gail Han
+  photo: 
+  info: Graduate Student
+  url: gail
+  group: 1
+    
 # - name: Moses Pon
 #   photo: moses.jpg
 #   info: Graduate Student
