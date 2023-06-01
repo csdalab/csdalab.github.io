@@ -7,17 +7,17 @@ email: ls181@students.uwf.edu
 twitter:
 github:
 scholar: 
-photo: 
+photo: leon.jpg
 ---
 
 ### Overview
 
-Leon Schröder is currently enrolled in MS Data Science in the Department of Mathematics and Statistics at the Hal Marcus College of Science and Engineering, University of West Florida.
-
+I got My Bachelor’s Degree in Mathematical Biometrics at Ulm University, Germany.
+Currently, I am working on my master in Mathematics at Ulm University and I will get a Master in Mathematical Sciences at UWF in August 2023.
 
 ### Short description of your current research project:
 
-Working on developing new family of probability distributions using the Ristic-Balakrishnan and Harris-G distributions.
+Working on developing new family of probability distributions using the Ristic-Balakrishnan generator. In 2021, 
 
 
 
