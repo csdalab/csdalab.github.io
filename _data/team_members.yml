@@ -28,6 +28,12 @@
   url: nitul
   group: 1
   
+- name: Hannah knehr
+  photo: hannah.jpg
+  info: Graduate Student
+  url: hannah
+  group: 1  
+  
 - name: Ming Huang
   photo: 
   info: Graduate Student
