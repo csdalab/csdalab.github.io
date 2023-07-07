@@ -45,7 +45,13 @@
   info: Graduate Student
   url: carla
   group: 1
-    
+
+- name: Natalie Belfort
+  photo: natalie.png
+  info: Graduate Student
+  url: natalie
+  group: 1
+  
 # - name: Moses Pon
 #   photo: moses.jpg
 #   info: Graduate Student
