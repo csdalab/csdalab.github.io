@@ -41,7 +41,8 @@ The CSDA Lab is primarily a data analytics group that uses a wide range of stati
 If you are interested in joining, please go to the [recruitment](recruitment) page.
 
 ### Funding
-TBD
+![alt text](../images/gradschooluwf.png)
+![alt text](../images/alumniuwf.png)
 
 
 
