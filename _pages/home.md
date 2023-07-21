@@ -44,7 +44,7 @@ If you are interested in joining, please go to the [recruitment](recruitment) pa
 ![alt text](../images/gradschooluwf.png)
 ![alt text](../images/alumniuwf.png)
 
-
-
+<img src="../images/gradschooluwf.png" alt="grad school" width="200"/>
+<img src="../images/gradschooluwf.png" alt="grad school" width="200"/>
 
 
