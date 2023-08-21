@@ -8,7 +8,7 @@ permalink: /code/
 
 ## CSDA Lab Research Guidelines & Agreement
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/csda.png" style="width: 300px"> 
+ ![]({{ site.url }}{{ site.baseurl }}/images/csda.png){: style="width: 100px; float: left;margin-right: 20px; border: 10px"} <br>
 
 
 Welcome to the Computational Mathematics, Statistical Modeling, and Data Analytics (CSDA) Lab! This will be a fun and rewarding experience for all of us. This document provides guidelines and agreements for students participating in laboratory research related to Mathematics, Statistics, and Data Science. By participating in the lab activities, you agree to adhere to these guidelines.
