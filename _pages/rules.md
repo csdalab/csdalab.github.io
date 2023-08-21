@@ -3,7 +3,7 @@ title: "CSDA Lab - Research Guidelines"
 layout: textlay
 excerpt: "CSDA Lab -- Guidelines"
 sitemap: false
-permalink: /code/
+permalink: /rules/
 ---
 
 ## CSDA Lab Research Guidelines & Agreement
