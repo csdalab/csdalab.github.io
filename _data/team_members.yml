@@ -14,7 +14,8 @@
   photo: leon.jpg
   info: Graduate Student
   url: leon
-  group: 1
+  group: 8
+  year: 2023
 
 - name: Muhammad Usman Aslam
   photo: usman.jpg
@@ -44,13 +45,15 @@
   photo: 
   info: Graduate Student
   url: carla
-  group: 1
+  group: 8
+  year: 2022
 
 - name: Natalie Belford
   photo: natalie.png
   info: Graduate Student
   url: natalie
-  group: 1
+  group: 8
+  year: 2023
   
 # - name: Moses Pon
 #   photo: moses.jpg
@@ -68,7 +71,8 @@
   photo: 
   info: Undergraduate Student
   url: alex
-  group: 2
+  group: 8
+  year: 2023
   
 - name: Allan Chung
   photo: allan.jpeg
@@ -80,7 +84,8 @@
   photo: 
   info: Undergraduate Student
   url: declan
-  group: 2
+  group: 8
+  year: 2023
 
 - name: Dylan Wright
   photo: 
