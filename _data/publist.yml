@@ -1,10 +1,19 @@
-- title: "Predictin the Day of Cherry Blossom using LSTM"
+- title: "Designing Hotelling's T2 Chart for Anomaly Detection in loT Systems"
+  image: Sy_surp_2023_poster.jpg
+  description: 
+  authors: 
+  link:
+    url:  
+    display: Fontenot, Dr. Reichherzer, Dr. Cohen (2023) at SURP 2023
+  highlight: 1
+  news2: 
+- title: "Predicting the Day of Cherry Blossom using LSTM"
   image: Poster_MAA_Tampa_Nitul2023.jpg
   description: 
   authors: 
   link:
     url:  
-    display: Singha and Cohen (2023) at MAA MathFest Tampa
+    display: Singha and Dr. Cohen (2023) at MAA MathFest Tampa
   highlight: 1
   news2: 
 - title: "Simulation Study to Determine the Minimum Sample Size for Latent Class Analysis (LCA)"
@@ -13,7 +22,7 @@
   authors: 
   link:
     url:  
-    display: Han and Cohen (2023) at MAA MathFest Tampa
+    display: Han and Dr. Cohen (2023) at MAA MathFest Tampa
   highlight: 1
   news2: 
 - title: "Ristić-Balakrishnan-Harris-G Family of Distributions with Applications"
@@ -22,7 +31,7 @@
   authors: 
   link:
     url: 
-    display: Aaron, Pu, and Cohen (2023) at UWF Research Symposium
+    display: Aaron, Dr. Pu, and Dr. Cohen (2023) at UWF Research Symposium
   highlight: 1
   news2: 
 - title: "Social and Scientific Interest in Data Science: An Exploratory Analysis"
@@ -31,7 +40,7 @@
   authors: 
   link:
     url: 
-    display: Usman, Pu, Cohen (2023) at UWF Research Symposium
+    display: Usman, Dr. Pu, Dr. Cohen (2023) at UWF Research Symposium
   highlight: 1
   news2: 
 - title: "Predicting Cherry Blossom Day of Year using Regression Models"
@@ -40,7 +49,7 @@
   authors: 
   link:
     url: 
-    display: Singha and Cohen (2023) present at the Miami Graduate Schools Conference
+    display: Singha and Dr. Cohen (2023) present at the Miami Graduate Schools Conference
   highlight: 1
   news2: 
 - title: "Veteran Disability Compensation in the U.S. in 2021: A Poisson Regression Application"
@@ -49,6 +58,6 @@
   authors:
   link:
     url: 
-    display: Brooks and Cohen (2023) at UWF Research Symposium
+    display: Brooks and Dr. Cohen (2023) at UWF Research Symposium
   highlight: 1
   news2: 
