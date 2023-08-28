@@ -3,8 +3,8 @@
   description: 
   authors: 
   link:
-    url: Han and Cohen (2023) at MAA Math Fest Tampa 
-    display:  
+    url:  
+    display: Han and Cohen (2023) at MAA Math Fest Tampa
   highlight: 1
   news2: 
 - title: "Ristić-Balakrishnan-Harris-G Family of Distributions with Applications"
@@ -12,8 +12,8 @@
   description: 
   authors: 
   link:
-    url: Aaron, Pu, and Cohen (2023) at UWF Research Symposium
-    display:  
+    url: 
+    display: Aaron, Pu, and Cohen (2023) at UWF Research Symposium
   highlight: 1
   news2: 
 - title: "Social and Scientific Interest in Data Science: An Exploratory Analysis"
@@ -21,8 +21,8 @@
   description: 
   authors: 
   link:
-    url: Usman, Pu, Cohen (2023) at UWF Research Symposium
-    display:  
+    url: 
+    display: Usman, Pu, Cohen (2023) at UWF Research Symposium
   highlight: 1
   news2: 
 - title: "Predicting Cherry Blossom Day of Year using Regression Models"
@@ -31,11 +31,11 @@
   authors: 
   link:
     url: 
-    display:  Singha and Cohen (2023) present at the Miami Graduate Schools Conference
+    display: Singha and Cohen (2023) present at the Miami Graduate Schools Conference
   highlight: 1
   news2: 
 - title: "Veteran Disability Compensation in the U.S. in 2021: A Poisson Regression Application"
-  image: Psoter_UWF_Raine2023.png
+  image: Poster_UWF_Raine2023.png
   description: 
   authors:
   link:
