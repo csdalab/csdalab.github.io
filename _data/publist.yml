@@ -1,9 +1,18 @@
+- title: "Simulation Study to Determine the Minimum Sample Size for Latent Class Analysis (LCA)"
+  image: Gail_Cohen_Tampa2023.png
+  description: 
+  authors: 
+  link:
+    url: Han and Cohen (2023) at MAA Math Fest Tampa 
+    display:  
+  highlight: 1
+  news2: 
 - title: "Ristić-Balakrishnan-Harris-G Family of Distributions with Applications"
   image: Aaron_RBHdistributions.png
   description: 
   authors: 
   link:
-    url: Aaron, Pu, and Cohen
+    url: Aaron, Pu, and Cohen (2023) at UWF Research Symposium
     display:  
   highlight: 1
   news2: 
@@ -12,7 +21,7 @@
   description: 
   authors: 
   link:
-    url: Usman, Pu, Cohen (2023)
+    url: Usman, Pu, Cohen (2023) at UWF Research Symposium
     display:  
   highlight: 1
   news2: 
@@ -22,7 +31,7 @@
   authors: 
   link:
     url: 
-    display:  Singha and Cohen (2023) present at the Miami Graduate School Conference
+    display:  Singha and Cohen (2023) present at the Miami Graduate Schools Conference
   highlight: 1
   news2: 
 - title: "Veteran Disability Compensation in the U.S. in 2021: A Poisson Regression Application"
@@ -31,6 +40,6 @@
   authors:
   link:
     url: 
-    display: Brooks and Cohen (2023) at et UWF Symposium
+    display: Brooks and Cohen (2023) at UWF Research Symposium
   highlight: 1
   news2: 
