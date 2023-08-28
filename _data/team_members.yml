@@ -52,8 +52,15 @@
   photo: natalie.png
   info: Graduate Student
   url: natalie
-  group: 8
-  year: 2023
+  group: 1
+  year: 
+
+- name: Gail Han
+  photo: gail.jpg
+  info: Graduate Student
+  url: gail
+  group: 1
+  year: 
   
 # - name: Moses Pon
 #   photo: moses.jpg
@@ -91,7 +98,7 @@
   photo: 
   info: Undergraduate Student
   url: dylan
-  group: 2
+  group: 8
   
 - name: Raine Brooks
   photo: 
