@@ -32,6 +32,8 @@ The CSDA Lab is primarily a data analytics group that uses a wide range of stati
 - Signal processing: Wavelet analysis, Fourier transforms, multiscale analysis, and more. 
 - Tools: R, Quarto, Python, SAS, and MATLAB.
 
+## Research Guidelines
+Please review the [**research guidelines**](rules) and inform your advisor of your questions.
 
 ### Collaborators
 - Thatayaone Moakofi, Ph.D. Statistics Student in the Department of Mathematics and Statistical Sciences, Botswana International University of Science and Technology. Email: thatayaone.moakofi@studentmail.biust.ac.bw 
@@ -39,9 +41,6 @@ The CSDA Lab is primarily a data analytics group that uses a wide range of stati
 
 ### Joining CSDA Lab
 If you are interested in joining, please go to the [recruitment](recruitment) page.
-
-### Research Guidelines
-Kindly review the [research guidelines](rules) provided and let your advisor know about any questions you have.
 
 ### Funding
 <img src="../images/gradschooluwf.png" alt="grad school" width="200"/>
