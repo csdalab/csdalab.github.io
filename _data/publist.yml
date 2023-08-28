@@ -1,10 +1,19 @@
+- title: "Predictin the Day of Cherry Blossom using LSTM"
+  image: Poster_MAA_Tampa_Nitul2023.jpg
+  description: 
+  authors: 
+  link:
+    url:  
+    display: Singha and Cohen (2023) at MAA MathFest Tampa
+  highlight: 1
+  news2: 
 - title: "Simulation Study to Determine the Minimum Sample Size for Latent Class Analysis (LCA)"
   image: Gail_Cohen_TampaMAA2023.png
   description: 
   authors: 
   link:
     url:  
-    display: Han and Cohen (2023) at MAA Math Fest Tampa
+    display: Han and Cohen (2023) at MAA MathFest Tampa
   highlight: 1
   news2: 
 - title: "Ristić-Balakrishnan-Harris-G Family of Distributions with Applications"
