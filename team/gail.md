@@ -7,7 +7,7 @@ email:
 twitter:
 github:
 scholar: 
-photo: 
+photo: gail.jpg
 ---
 
 ### Overview
