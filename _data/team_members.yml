@@ -9,23 +9,10 @@
   info: Assistant Professor
   url: shusen
   group: 0
-  
-- name: Leon Schröder
-  photo: leon.jpg
-  info: Graduate Student
-  url: leon
-  group: 8
-  year: 2023
-
-- name: Muhammad Usman Aslam
-  photo: usman.jpg
-  info: Graduate Student
-  url: usman
-  group: 1
 
 - name: Nitul Singha
   photo: nitul.jpg
-  info: Graduate Student
+  info: Graduate Student and TA
   url: nitul
   group: 1
   
@@ -39,8 +26,21 @@
   photo: mingfang.png
   info: Graduate Student
   url: mingfang
+  group: 1  
+  
+- name: Leon Schröder
+  photo: leon.jpg
+  info: Graduate Student
+  url: leon
+  group: 8
+  year: 2023
+
+- name: Muhammad Usman Aslam
+  photo: usman.jpg
+  info: Graduate Student
+  url: usman
   group: 1
- 
+  
 - name: Carla Wilson
   photo: 
   info: Graduate Student
