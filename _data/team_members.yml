@@ -34,13 +34,13 @@
   url: maxime
   group: 1
   
-  - name: Michael Carnival
+- name: Michael Carnival
   photo: michael.png
   info: Graduate Student
   url: michael
   group: 1
   
-  - name: Shristhi
+- name: Shristhi
   photo: shrishti.jpg
   info: Undergraduate Student
   url: shrishti
