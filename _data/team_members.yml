@@ -106,16 +106,46 @@
   group: 2
 
 - name: Declan McGurk
-  photo: 
+  photo: declan.png
   info: Undergraduate Student
   url: declan
-  group: 8
+  group: 2
   year: 2023
 
 - name: Dylan Wright
-  photo:
+  photo: dylan.png
   info: Undergraduate Student
   url: dylan
+  group: 2
+
+- name: Christina Hoffman
+  photo: christina.png
+  info: Undergraduate Student
+  url: christina
+  group: 2
+
+- name: Jason Gerstenberger
+  photo: jason.png
+  info: Graduate Student
+  url: jason
+  group: 1
+
+- name: Xinyu Chen
+  photo: xinyu.png
+  info: Graduate Student
+  url: xinyu
+  group: 1
+ 
+- name: Kellie Tamimi
+  photo: kellie.png
+  info: Undergraduate Student
+  url: kellie
+  group: 2
+  
+- name: Jiayu Zhu
+  photo: jiayu.png
+  info: Undergraduate Student
+  url: jiayu
   group: 2
   
 - name: Raine Brooks
