@@ -8,13 +8,19 @@ permalink: /contact/
 
 # Contact
 
-## Lab Location
+## Meetings in Fall 2023
 
-CSDA Lab is in the Department of Mathematics and Statistics at UWF - main campus - Room 337B, Floor 3, Building 4 (Dr. Cohen's office).
+Please join our weekly Thursday meeting from 9:00 AM to 10:00 AM in Building 4 / Room 212.
+
+## Contact Information
+
 If you have any questions about the CDSA Lab, please contact:
 
-- Dr. Achraf Cohen - acohen@uwf.edu - ![https://pages.uwf.edu/acohen/](https://pages.uwf.edu/acohen/)
-- Dr. Shusen Pu - spu@uwf.edu - ![https://www.shusenpu.com/](https://www.shusenpu.com/)
+- Dr. Achraf Cohen - acohen@uwf.edu ; webpage: [https://pages.uwf.edu/acohen/](https://pages.uwf.edu/acohen/)
+- Dr. Shusen Pu - spu@uwf.edu; webpage: [https://www.shusenpu.com/](https://www.shusenpu.com/)
 
+## Location
+
+CSDA Lab is in the Department of Mathematics and Statistics at UWF - main campus - Room 337B, Floor 3, Building 4 (Dr. Cohen's office).
 
 <!--<img src="{{ site.url }}{{ site.baseurl }}/images/contactpic/map.png" style="width: 600px">-->
