@@ -7,7 +7,7 @@ email: ns122@students.uwf.edu
 twitter:
 github:
 scholar: 
-photo: 
+photo: nitul
 ---
 
 ### Overview
@@ -17,6 +17,6 @@ Nitul Singha is currently enrolled in MS Data Science in the Department of Mathe
 
 ### Short description of your current research project:
 
-Working on forecasting the cherry blossom day of year.
+Working on predictive models using regressions and LSTM.
 
 
