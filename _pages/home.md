@@ -20,6 +20,11 @@ permalink: /
 - **Neuroscience**: Leveraging machine learning / statistical modeling to understand the brain neuron connections.
 - **Tooling**: Developing R packages and Shiny apps.
 
+
+ ![]({{ site.url }}{{ site.baseurl }}/images/newspic/csdalab2023.jpg){: style="width: 300px; float: center;margin-right: 20px; border: 10px"} <be>
+
+
+
 ## Methods and Technologies
 
 The CSDA Lab is primarily a data analytics group that uses a wide range of statistical and mathematical methods, including:
