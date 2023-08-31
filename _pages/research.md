@@ -6,16 +6,8 @@ sitemap: false
 permalink: /research/
 ---
 
-## Research Projects
+## Ongoing Research Projects
 ---
-
-<!-- ![]({{ site.url }}{{ site.baseurl }}/images/respic/.png){: style="width: 300px; float: left;margin-right: 30px; border: 10px"} -->
-
-#### Data Science Education Trends using Social and Scientific Interests Metrics
-<!--  <div style="text-align: justify"> 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/.png){: style="width: 300px; float: left;margin-right: 30px; border: 10px"}
-</div> -->
----- 
 
 
 <!-- ![]({{ site.url }}{{ site.baseurl }}/images/respic/.png){: style="width: 300px; float: left;margin-right: 30px; border: 10px"} -->
@@ -49,12 +41,12 @@ permalink: /research/
 
 <!-- ![]({{ site.url }}{{ site.baseurl }}/images/respic/.png){: style="width: 300px; float: left;margin-right: 30px; border: 10px"} -->
 
-#### Predicting cheery blossom day of the year
+#### Predicting cheery blossom day of the year using LSTMA
 <!-- <div style="text-align: justify">
 </div> -->
 ---
 
-#### Veterans Disability Compensation Recipients in the USA in 2021: A statistical Analysis
+#### Veterans Disability Compensation Recipients in the USA in 2021: A Statistical Analysis
 <!-- <div style="text-align: justify">
 </div> -->
 ---
@@ -64,7 +56,7 @@ permalink: /research/
 </div> -->
 ---
 
-#### Latent Class Anlaysis and Sample Size Determination
+#### Latent Class Analysis and Sample Size Determination
 <!-- <div style="text-align: justify">
 </div> -->
 ---
@@ -74,4 +66,12 @@ permalink: /research/
 </div> -->
 ---
 
+
+<!-- ![]({{ site.url }}{{ site.baseurl }}/images/respic/.png){: style="width: 300px; float: left;margin-right: 30px; border: 10px"} -->
+
+#### Data Science Education Trends using Social and Scientific Interests Metrics
+<!--  <div style="text-align: justify"> 
+![]({{ site.url }}{{ site.baseurl }}/images/respic/.png){: style="width: 300px; float: left;margin-right: 30px; border: 10px"}
+</div> -->
+---- 
 
