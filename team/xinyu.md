@@ -7,7 +7,7 @@ email:
 twitter:
 github:
 scholar: 
-photo: xinuy.png
+photo: xinyu.png
 ---
 
 ### Overview
