@@ -1,6 +1,6 @@
 ---
 layout: member
-title: Michael
+title: Michael Carnival
 position: Graduate Student
 handle: 
 email:  
