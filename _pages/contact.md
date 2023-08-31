@@ -6,15 +6,15 @@ sitemap: false
 permalink: /contact/
 ---
 
-# Contact
+# Contact Information
 
 ## Meetings in Fall 2023
 
 Please join our weekly Thursday meeting from 9:00 AM to 10:00 AM in Building 4 / Room 212.
 
-## Contact Information
+## Contact
 
-If you have any questions about the CDSA Lab, please contact:
+If you have any questions about the CSDA Lab, please contact:
 
 - Dr. Achraf Cohen - acohen@uwf.edu ; webpage: [https://pages.uwf.edu/acohen/](https://pages.uwf.edu/acohen/)
 - Dr. Shusen Pu - spu@uwf.edu; webpage: [https://www.shusenpu.com/](https://www.shusenpu.com/)
