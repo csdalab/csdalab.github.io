@@ -7,7 +7,7 @@ email:
 twitter:
 github:
 scholar: 
-photo: xchristina.png
+photo: christina.png
 ---
 
 ### Overview
