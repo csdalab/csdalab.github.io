@@ -21,12 +21,30 @@
   info: Graduate Student
   url: hannah
   group: 1  
-  
+
 - name: Ming Huang
   photo: mingfang.png
   info: Graduate Student
   url: mingfang
   group: 1  
+  
+- name: Maxime Martin
+  photo: maxime.jpeg
+  info: Graduate Student
+  url: maxime
+  group: 1
+  
+  - name: Michael Carnival
+  photo: michael.png
+  info: Graduate Student
+  url: michael
+  group: 1
+  
+  - name: Shristhi
+  photo: shrishti.jpg
+  info: Undergraduate Student
+  url: shrishti
+  group: 2
   
 - name: Leon Schröder
   photo: leon.jpg
