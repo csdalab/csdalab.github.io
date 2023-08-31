@@ -7,7 +7,7 @@ email:
 twitter:
 github:
 scholar: 
-photo: 
+photo: shrishti.jpg
 ---
 
 ### Overview
