@@ -7,7 +7,7 @@ email:
 twitter:
 github:
 scholar: 
-photo: michael.pmg
+photo: michael.png
 ---
 
 ### Overview
