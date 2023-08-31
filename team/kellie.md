@@ -7,7 +7,7 @@ email:
 twitter:
 github:
 scholar: 
-photo: 
+photo: kellie.png
 ---
 
 ### Overview
