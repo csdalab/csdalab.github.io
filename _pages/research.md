@@ -6,72 +6,31 @@ sitemap: false
 permalink: /research/
 ---
 
+
 ## Ongoing Research Projects
----
-
 
 <!-- ![]({{ site.url }}{{ site.baseurl }}/images/respic/.png){: style="width: 300px; float: left;margin-right: 30px; border: 10px"} -->
 
-#### The impact of Imputation Methods on the Performance of Phase I of T2 control chart 
-<!-- <div style="text-align: justify">
-</div> -->
----- 
+1.  The impact of Imputation Methods on the Performance of Phase I of T2 control chart
+2.  B-LT-EHL-G Distributions
+3.  Predicting cheery blossom day of the year using LSTM Networks
+4.  R package for new Distributions
+5.  Classification of Mass Spectrometry data
+6.  Latent Class Analysis and Sample Size Determination
+7.  R Shiny for Probability Distributions
+8.  Confidence Intervals for Binomial Proportions
+9.  Data Science Education Trends using Social and Scientific Interests Metrics
+10.  Text analysis for interviews to study the trends in data science and statistics education
 
 
-<!-- ![]({{ site.url }}{{ site.baseurl }}/images/respic/.png){: style="width: 300px; float: left;margin-right: 30px; border: 10px"} -->
-
-#### Ristic-Balakrishnan-Harris-G Distributions 
-<!-- <div style="text-align: justify">
-</div> -->
-----
-
-<!-- ![]({{ site.url }}{{ site.baseurl }}/images/respic/.png){: style="width: 300px; float: left;margin-right: 30px; border: 10px"} -->
-
-#### RB-LT-EHL-G Distributions 
-<!-- <div style="text-align: justify">
-</div> -->
-----
-
-<!-- ![]({{ site.url }}{{ site.baseurl }}/images/respic/.png){: style="width: 300px; float: left;margin-right: 30px; border: 10px"} -->
-
-#### R package for new Distributions 
-<!-- <div style="text-align: justify">
-</div> -->
-----
-
-<!-- ![]({{ site.url }}{{ site.baseurl }}/images/respic/.png){: style="width: 300px; float: left;margin-right: 30px; border: 10px"} -->
-
-#### Predicting cheery blossom day of the year using LSTMA
-<!-- <div style="text-align: justify">
-</div> -->
----
-
-#### Veterans Disability Compensation Recipients in the USA in 2021: A Statistical Analysis
-<!-- <div style="text-align: justify">
-</div> -->
----
-
-#### Imputation Methods and Hotelling T2 test
-<!-- <div style="text-align: justify">
-</div> -->
----
-
-#### Latent Class Analysis and Sample Size Determination
-<!-- <div style="text-align: justify">
-</div> -->
----
-
-#### R Shiny for Probability Distributions
-<!-- <div style="text-align: justify">
-</div> -->
----
+## Past Research Projects
+1.  Ristic-Balakrishnan-Harris-G Distributions - paper Under Review
+2.  B-LT-EHL-G Distributions - paper Under Review
+3.  Veterans Disability Compensation Recipients in the USA in 2021: A Statistical Analysis
 
 
-<!-- ![]({{ site.url }}{{ site.baseurl }}/images/respic/.png){: style="width: 300px; float: left;margin-right: 30px; border: 10px"} -->
 
-#### Data Science Education Trends using Social and Scientific Interests Metrics
-<!--  <div style="text-align: justify"> 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/.png){: style="width: 300px; float: left;margin-right: 30px; border: 10px"}
-</div> -->
----- 
-
+## Grant
+- [UWF OUR travel](https://uwf.edu/academic-affairs/departments/undergraduate-research/sharing-research/our-travel-awards-program/)
+- [UWF Alumni Grants](https://uwf.edu/alumni/student-programs/alumni-grants/)
+- [UWF Opportunities](https://uwf.edu/graduate/tuition-funding/funding-opportunities/)
