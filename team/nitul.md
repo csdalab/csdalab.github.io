@@ -7,7 +7,7 @@ email: ns122@students.uwf.edu
 twitter:
 github:
 scholar: 
-photo: nitul
+photo: nitul.jpg
 ---
 
 ### Overview
