@@ -12,21 +12,25 @@ photo: natalie.png
 
 ### Overview
 
-Natalie Belford earned a Bachelor of Science in Business Administration, Finance, and an Undergraduate
-Certificate in Supply Chain Logistics Management at the University of West Florida (UWF). Shortly
-thereafter at UWF, she earned a Master of Business Administration with an emphasis in Business
-Analytics and a Graduate Certificate in Supply Chain Logistics Management. While earning the MBA, she
-worked as a teaching assistant for UWF’s Information Systems Management Department where she
-tutored management science students, particularly in linear programming and optimization modeling.
-Natalie is also a published author having written two academic journal articles. The first of which she
-solo-authored outlining the benefits of using optimization modeling to develop a contingency plan
-during a pandemic. The article has since been published in the Journal of Cybersecurity Education,
-Research and Practice (JCERP). Natalie coauthored the second paper with her pedagogical research
-team from the University. The purpose of the research was to engage students in optimization
-modeling. The research article has since been published in INFORM’s Transactions on Education (ITE).
-Natalie is currently earning a Master of Science in Data Science with a concentration in Analytics and
-Modeling. Her research interests include optimization modeling, logistics, and global nutrition studies.
+Hi!
+
+I’m Natalie Belford. I’m from Pensacola but moved around a bit before coming back to finish my
+bachelor’s in finance and logistics. I’ve since stayed and earned an MBA in business analytics and
+logistics. Working as a TA during my MBA program I discovered my love of academia. I’m currently
+finishing a Master of Science in Data Science with a concentration in Analytics and Modeling.
+
+I have had two academic journal articles published; one solo-authored outlining the benefits of using
+optimization modeling to develop a contingency plan during a pandemic. The article has since been
+published in the Journal of Cybersecurity Education, Research and Practice (JCERP). The second paper
+I co-authored with a pedagogical research team. The research purpose was to engage students in
+optimization modeling. The article has since been published in INFORM’s Transactions on Education
+(ITE).
+
+My research interests include optimization modeling, logistics, and global nutrition studies. It’s an
+honor to be a part of this group.
+
+Fun and boring facts about me: I love reading, weightlifting, and word searches.
 
 ### Short description of your current research project:
 
-Natalie is working on classification problems for high-dimensional and sequential data  
+Natalie is working on NLP. 
