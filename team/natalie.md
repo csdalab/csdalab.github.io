@@ -14,8 +14,7 @@ photo: natalie.png
 
 Hi!
 
-I’m Natalie Belford. I’m from Pensacola but moved around a bit before coming back to finish my I have
-a bachelor’s in finance and logistics. I’ve since stayed and earned an MBA in business analytics
+I’m Natalie Belford. I have a bachelor’s in finance and logistics and an MBA in business analytics
 and logistics. Working as a TA during my MBA program, I discovered my love of academia. 
 
 I’m currently finishing a Master of Science in Data Science with a concentration in Analytics and Modeling.
