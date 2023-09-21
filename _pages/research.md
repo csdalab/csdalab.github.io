@@ -11,23 +11,28 @@ permalink: /research/
 
 <!-- ![]({{ site.url }}{{ site.baseurl }}/images/respic/.png){: style="width: 300px; float: left;margin-right: 30px; border: 10px"} -->
 
-3.  Predicting cheery blossom day of the year using LSTM Networks and Regression
-4.  R package for new Distributions
-5.  Classification of Mass Spectrometry data
-6.  Latent Class Analysis and Sample Size Determination
-7.  R Shiny for Probability Distributions
-8.  Confidence Intervals for Binomial Proportions
-10. Text analysis for interviews to study the trends in data science and statistics education
+1. Data Analytics and Education
+2. Predicting cheery blossom day of the year using LSTM Networks and Regression
+3. R package developments
+4. Classification of Mass Spectrometry data
+5. Latent Class Analysis and Sample Size Determination
+6. R Shiny Apps
+7. Confidence Intervals for Binomial Proportions - Simulation Study
+8. Second Generation of p-values
+9. Predictive Modeling of RCT Enrollments
 
 
-## Submissions on Research Projects
-1.  Ristic-Balakrishnan-Harris-G Distributions - paper Under Review
-2.  RB-LT-EHL-G Distributions - paper Under Review
-3.  The impact of Imputation Methods on the Performance of Phase I of T2 control chart - paper Under Review
+## Paper Submissions 
+1.  Ristic-Balakrishnan-Harris-G Distributions - Under Review
+2.  RB-LT-EHL-G Distributions -  Under Review
+3.  The impact of Imputation Methods on the Performance of Phase I of T2 control chart - Under Review
+4.  
 
-## Pas Research Projects
+## Past Research Projects
 1.  Veterans Disability Compensation Recipients in the USA in 2021: A Statistical Analysis
 2.  Data Science Education Trends using Social and Scientific Interests Metrics
+3.  Load forecasting using regressions
+
 
 
 
