@@ -26,7 +26,7 @@ permalink: /research/
 1.  Ristic-Balakrishnan-Harris-G Distributions - Under Review
 2.  RB-LT-EHL-G Distributions -  Under Review
 3.  The impact of Imputation Methods on the Performance of Phase I of T2 control chart - Under Review
-4.  
+
 
 ## Past Research Projects
 1.  Veterans Disability Compensation Recipients in the USA in 2021: A Statistical Analysis
