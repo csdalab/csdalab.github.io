@@ -6,8 +6,14 @@
   
 - name: Shusen Pu
   photo: shusen.png
-  info: Assistant Professor
+  info: Assistant Professor  
   url: shusen
+  group: 0
+
+- name: Brian Jalaian
+  photo: brian.jpg
+  info: Associate Professor / AI and ML
+  url: 
   group: 0
 
 - name: Nitul Singha
