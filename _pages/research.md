@@ -12,14 +12,15 @@ permalink: /research/
 <!-- ![]({{ site.url }}{{ site.baseurl }}/images/respic/.png){: style="width: 300px; float: left;margin-right: 30px; border: 10px"} -->
 
 1. Data Analytics and Education
-2. Predicting cheery blossom day of the year using LSTM Networks and Regression
-3. R package developments
-4. Classification of Mass Spectrometry data
-5. Latent Class Analysis and Sample Size Determination
-6. R Shiny Apps
-7. Confidence Intervals for Binomial Proportions - Simulation Study
-8. Second Generation of p-values
-9. Predictive Modeling of RCT Enrollments
+2. Computational models for neuron and neural network
+3. Predicting cheery blossom day of the year using LSTM Networks and Regression
+4. R package developments
+5. Classification of Mass Spectrometry data
+6. Latent Class Analysis and Sample Size Determination
+7. R Shiny Apps
+8. Confidence Intervals for Binomial Proportions - Simulation Study
+9. Second Generation of p-values
+10. Predictive Modeling of RCT Enrollments
 
 
 ## Paper Submissions 
