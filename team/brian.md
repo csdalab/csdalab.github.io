@@ -1,6 +1,6 @@
 ---
 layout: member
-title: Brian Jalaian Cohen
+title: Brian Jalaian
 position: Associate Professor
 handle: brian
 email:  
