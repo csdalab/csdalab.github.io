@@ -11,7 +11,7 @@ permalink: /publications/
 
 ---
 
-## Featured
+## Posters
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
@@ -48,6 +48,8 @@ permalink: /publications/
 <p> &nbsp; </p>
 
 ---
+
+
 
 <!-- <div>
 ## Full List
