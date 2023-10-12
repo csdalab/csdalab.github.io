@@ -34,6 +34,12 @@
   url: mingfang
   group: 1  
   
+- name: Joshua Cook
+  photo: joshua.jpg
+  info: Graduate Student
+  url: joshua
+  group: 1
+  
 - name: Maxime Martin
   photo: maxime.jpeg
   info: Graduate Student
