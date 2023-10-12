@@ -1,5 +1,5 @@
 ---
-title: "CSDA Lab - Data"
+title: "CSDA Lab - Resources"
 layout: textlay
 excerpt: "CSDA Lab -- Data."
 sitemap: false
