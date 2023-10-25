@@ -11,16 +11,20 @@ permalink: /research/
 
 <!-- ![]({{ site.url }}{{ site.baseurl }}/images/respic/.png){: style="width: 300px; float: left;margin-right: 30px; border: 10px"} -->
 
-1. Data Analytics and Education
-2. Computational models for neuron and neural network
+1. Analyzing Through the Decades Teaching Trends in Data Science
+2. Mathematical and Computational Models for Single Neuron and Neural Network Architectures
 3. Predicting cheery blossom day of the year using LSTM Networks and Regression
-4. R package developments
-5. Classification of Mass Spectrometry data
-6. Latent Class Analysis and Sample Size Determination
-7. R Shiny Apps
-8. Confidence Intervals for Binomial Proportions - Simulation Study
-9. Second Generation of p-values
-10. Predictive Modeling of RCT Enrollments
+4. Salivary pH vs. Self-Reported Stress vs. Self-Reported Sleep
+5. R package developments
+6. Classification of Mass Spectrometry data
+7. Leveraging Convolutional Neural Networks (CNN) and machine learning operations (MLOps) for face detection and recognition.
+8. Latent Class Analysis and Sample Size Determination
+9. R Shiny Apps
+10. Confidence Intervals for Binomial Proportions - Simulation Study
+11. Second Generation of p-values
+12. Prediction Clinical Trial Enrollment Rates
+13. Statistical Considerations in the Development of a Consensus Statement
+
 
 
 ## Paper Submissions 
