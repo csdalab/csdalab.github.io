@@ -3,7 +3,7 @@ title: "CSDA Lab - Gallery"
 layout: textlay
 excerpt: "CSDA Lab -- Gallery."
 sitemap: false
-permalink: /
+permalink: /gallery
 ---
 
 ## Three Minutes Thesis @UWF
