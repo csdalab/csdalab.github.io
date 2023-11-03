@@ -16,6 +16,6 @@ permalink: /gallery
 
 ### CSDA Lab Meetings 2023
 
- ![]({{ site.url }}{{ site.baseurl }}/images/newspic/csdalab2023.jpg){: style="width: 400px; float: center;margin-right: 20px; border: 10px"} MAA MathFest Conference in 2023
+ ![]({{ site.url }}{{ site.baseurl }}/images/newspic/csdalab2023.jpg){: style="width: 400px; float: center;margin-right: 20px; border: 10px"} 
 
 
