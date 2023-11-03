@@ -1,4 +1,6 @@
 - date: Fall 2023
+  headline: ![]({{ site.url }}{{ site.baseurl }}/images/newspic/csdalab_nov2023.jpg){: style="width: 100px; float: center;margin-right: 20px; border: 10px"} 3MThesis Fall 2023 @UWF
+- date: Fall 2023
   headline: "Weekly Meetings on Thursdays 9-10 AM at building 4/ room 212"
 - date: October 10th 2023
   headline: "Michael and Jason presented to the lab their research"
