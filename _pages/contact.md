@@ -10,7 +10,7 @@ permalink: /contact/
 
 ## Meetings in Fall 2023
 
-Please join our weekly Thursday meeting from 9:00 AM to 10:00 AM in Building 4 / Room 212.
+Please join our weekly **Fridays** meeting from 9:30 AM to 10:30 AM in Building 4 / Room 212.
 
 ## Contact
 
