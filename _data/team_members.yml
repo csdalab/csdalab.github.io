@@ -51,7 +51,7 @@
   info: Graduate Student
   url: michael
   group: 1
-  
+
 - name: Shrishti
   photo: shrishti.jpg
   info: Undergraduate Student
@@ -195,3 +195,10 @@
   url: 
   group: 8
   year: 2021
+
+- name: Joaquin Estevez
+  photo: joaquin.jpeg
+  info: Undergraduate Student
+  url: joaquin
+  group: 2
+  
