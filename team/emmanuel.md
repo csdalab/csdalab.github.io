@@ -1,6 +1,6 @@
 ---
 layout: member
-title: emmanuel 
+title: Emmanuel 
 position: Undergraduate Student
 handle: emmanuel
 email:  
