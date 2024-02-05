@@ -6,7 +6,7 @@ sitemap: false
 permalink: /gallery
 ---
 
-### Team Ranks 5th in the USC Case Competition
+### Team Ranks 5th in the [USC Case Competition](https://news.uwf.edu/uwf-team-places-in-top-5-in-national-data-science-competition/) 
 ![]({{ site.url }}{{ site.baseurl }}/images/newspic/uwf_MathStat_competition2024.jpg){: style="width: 400px; float: center;margin-right: 20px; border: 10px"} ![]({{ site.url }}{{ site.baseurl }}/images/newspic/photo_comp.jpg){: style="width: 400px; width: 400px; float: center;margin-right: 20px; border: 10px"} <br> Left to Right: Jason Gerstenberger, Dylan Wright, Gail Han - The 2024 USC National Big Data Health Science Student Case Competition 
 
 ### Three Minute Thesis @UWF
