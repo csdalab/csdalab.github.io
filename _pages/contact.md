@@ -8,7 +8,7 @@ permalink: /contact/
 
 # Contact Information
 
-## Meetings in Fall 2023
+## Weekly Meetings
 
 Please join our weekly **Fridays** meeting from 9:30 AM to 10:30 AM in Building 4 / Room 212.
 
