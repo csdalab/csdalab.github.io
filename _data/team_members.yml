@@ -16,6 +16,12 @@
   url: brian
   group: 0
   
+- name: Steven Le
+  photo: stevenLe.jpg
+  info: Graduate Student
+  url: stevenle
+  group: 1
+  
 - name: Nitul Singha
   photo: nitul.jpg
   info: Graduate Student and TA
