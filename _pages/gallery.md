@@ -7,7 +7,7 @@ permalink: /gallery
 ---
 
 ### The 2024 USC National Big Data Health Science Student Case Competition 
-![]({{ site.url }}{{ site.baseurl }}/images/newspic/uwf_MathStat_competition2024.jpg){: style="width: 400px; float: center;margin-right: 20px; border: 10px"} ![]({{ site.url }}{{ site.baseurl }}/images/newspic/photo_comp.jpg){: style="width: 400px; float: center;margin-right: 20px; border: 10px"} <br> UWF Student at the Case Competition in Spring 2024
+![]({{ site.url }}{{ site.baseurl }}/images/newspic/uwf_MathStat_competition2024.jpg){: style="width: 400px; float: center;margin-right: 20px; border: 10px"} ![]({{ site.url }}{{ site.baseurl }}/images/newspic/photo_comp.jpg){: style="width: 400px; width: 400px; float: center;margin-right: 20px; border: 10px"} <br> Left to Right: Jason Gerstenberger, Dylan Wright, Gail Han 
 
 ### Three Minute Thesis @UWF
 ![]({{ site.url }}{{ site.baseurl }}/images/newspic/joshua3mt.jpg){: style="width: 400px; float: center;margin-right: 20px; border: 10px"} ![]({{ site.url }}{{ site.baseurl }}/images/newspic/nitul3mt.jpg){: style="width: 400px; float: center;margin-right: 20px; border: 10px"} <br> 3MT Competition at UWF in Fall 2023
