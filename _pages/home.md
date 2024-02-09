@@ -19,11 +19,11 @@ permalink: /
 - **Neuroscience**: Leveraging deep learning and statistical modeling to understand the brain neuron connections.
 - **Mathematical Statistics**: Investigating and developing new probability distributions for various applications.
 - **Tooling**: Developing R packages and Shiny apps.
-- **Health and Education Analytics**: Improving health and education outcomes using data analystics and AI.
+- **Health and Education Analytics**: Improving health and education outcomes using data analytics and AI.
 
 
- ![]({{ site.url }}{{ site.baseurl }}/images/newspic/csdalab_nov2023.jpg){: style="width: 600px; float: center;margin-right: 20px; border: 10px"}  ![]({{ site.url }}{{ site.baseurl }}/images/newspic/csdalab2023.jpg){: style="width: 600px; float: center;margin-right: 20px; border: 10px"} <br>
- *CSDA Lab Meetings in Fall 2023*
+ ![]({{ site.url }}{{ site.baseurl }}/images/newspic/csdalabsp24.jpg){: style="width: 600px; float: center;margin-right: 20px; border: 10px"}  ![]({{ site.url }}{{ site.baseurl }}/images/newspic/onlinecsdalabsp24.jpg){: style="width: 600px; float: center;margin-right: 20px; border: 10px"} <br>
+ *CSDA Lab Meetings in Spring 2024*
 
 
 
