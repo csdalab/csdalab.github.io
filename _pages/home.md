@@ -23,7 +23,7 @@ permalink: /
 
 
  ![]({{ site.url }}{{ site.baseurl }}/images/newspic/csdalabsp24.jpg){: style="width: 600px; float: center;margin-right: 20px; border: 10px"}  ![]({{ site.url }}{{ site.baseurl }}/images/newspic/onlinecsdalabsp24.png){: style="width: 600px; float: center;margin-right: 20px; border: 10px"} <br>
- *CSDA Lab Meetings in Spring 2024*
+ *CSDA Lab Meetings in Spring 2024* 
 
 
 
