@@ -56,8 +56,6 @@ permalink: /team/
 {% endif %}
 {% endif %}
 
-{% endif %}
-{% endfor %}
 ---
 
 ## Graduate Students
