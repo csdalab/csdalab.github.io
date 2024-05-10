@@ -6,7 +6,9 @@ sitemap: false
 permalink: /gallery
 ---
 
- ### Commencement Spring 2024! 
+
+
+### Commencement Spring 2024! 
  
 ![]({{ site.url }}{{ site.baseurl }}/images/newspic/com2024josh.jpg){: style="width: 400px; float: center;margin-right: 20px; border: 10px"} ![]({{ site.url }}{{ site.baseurl }}/images/newspic/com24nitul.jpg){: style="width: 400px; width: 400px; float: center;margin-right: 20px; border: 10px"} 
 
