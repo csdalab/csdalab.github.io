@@ -6,9 +6,11 @@ sitemap: false
 permalink: /gallery
 ---
 
-<!-- ### Commencement Spring 2024! 
+ ### Commencement Spring 2024! 
+![]({{ site.url }}{{ site.baseurl }}/images/newspic/com2024josh.jpg){: style="width: 400px; float: center;margin-right: 20px; border: 10px"} ![]({{ site.url }}{{ site.baseurl }}/images/newspic/com2nitul4.jpg){: style="width: 400px; width: 400px; float: center;margin-right: 20px; border: 10px"} <br> Left to Right: Jason Gerstenberger, Dylan Wright, Gail Han - The 2024 USC National Big Data Health Science Student Case Competition 
 
-### NCUR 2024
+
+<!--### NCUR 2024
 ![]({{ site.url }}{{ site.baseurl }}/images/newspic/uwf_MathStat_competition2024.jpg){: style="width: 400px; float: center;margin-right: 20px; border: 10px"} ![]({{ site.url }}{{ site.baseurl }}/images/newspic/photo_comp.jpg){: style="width: 400px; width: 400px; float: center;margin-right: 20px; border: 10px"} <br> Left to Right: Jason Gerstenberger, Dylan Wright, Gail Han - The 2024 USC National Big Data Health Science Student Case Competition 
 
 
