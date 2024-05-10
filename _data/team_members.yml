@@ -14,7 +14,7 @@
   photo: brian.jpg
   info: Associate Professor / AI and ML
   url: brian
-  group: 0
+  group: 3
   
 - name: Steven Le
   photo: stevenLe.jpg
@@ -140,7 +140,7 @@
   photo: allan.jpeg
   info: Undergraduate Student
   url: allan
-  group: 2
+  group: 8
 
 - name: Declan McGurk
   photo: declan.png
@@ -153,7 +153,8 @@
   photo: dylan.png
   info: Undergraduate Student
   url: dylan
-  group: 2
+  group: 8
+  year: 2024
 
 - name: Christina Hoffman
   photo: christina.png
@@ -181,15 +182,15 @@
   
 - name: Jiayu Zhu
   photo: jiayu.png
-  info: Undergraduate Student
+  info: Graduate Student
   url: jiayu
-  group: 2
+  group: 1
 
 - name: Sy
   photo: sy.jpg
-  info: Undergraduate Student
+  info: Graduate Student
   url: sy
-  group: 2
+  group: 1
   
 - name: Raine Brooks
   photo: 
