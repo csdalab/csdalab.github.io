@@ -26,31 +26,36 @@
   photo: nitul.jpg
   info: Graduate Student and TA
   url: nitul
-  group: 1
+  group: 8
+  year: 2024
   
 - name: Hannah knehr
   photo: hannah.jpg
   info: Graduate Student
   url: hannah
-  group: 1  
+  group: 8  
+  year: 2024
 
 - name: Ming Huang
   photo: mingfang.png
   info: Graduate Student
   url: mingfang
-  group: 1  
+  group: 8  
+  year: 2024
   
 - name: Joshua Cook
   photo: joshua.jpg
   info: Graduate Student
   url: joshua
-  group: 1
+  group: 8
+  year: 2024
   
 - name: Maxime Martin
   photo: maxime.jpeg
   info: Graduate Student
   url: maxime
-  group: 1
+  group: 8
+  year: 2024
   
 - name: Michael Carnival
   photo: michael.png
@@ -58,6 +63,18 @@
   url: michael
   group: 1
 
+- name: Sassou Khabou
+  photo: sassou.jpg
+  info: Graduate Student
+  url: sassou
+  group: 1
+
+- name: Richard Odgers
+  photo: richard.png
+  info: Graduate Student
+  url: richard
+  group: 1
+  
 - name: Shrishti
   photo: shrishti.jpg
   info: Undergraduate Student
@@ -89,8 +106,8 @@
   photo: natalie.png
   info: Graduate Student
   url: natalie
-  group: 1
-  year: 
+  group: 8
+  year: 2024
 
 - name: Gail Han
   photo: gail.jpg
