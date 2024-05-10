@@ -47,6 +47,7 @@ permalink: /team/
 
 ## Key Collaborators
 
+
 {% for member in site.data.team_members %}
 {% if member.group == 3 %}
 
@@ -55,6 +56,9 @@ permalink: /team/
 <i class="alumni2">Current: {{ member.current }}</i> {% if member.extlink %} <a class="alumni2" style="padding-left: 0px;" href="{{ member.extlink }}">(Link)</a>
 {% endif %}
 {% endif %}
+
+{% endif %}
+{% endfor %}
 
 ---
 
