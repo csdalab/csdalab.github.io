@@ -12,7 +12,7 @@ permalink: /team/
 
 ---
 
-## Faculty
+## Lab PIs
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
@@ -43,6 +43,21 @@ permalink: /team/
 </div>
 {% endif %}
 
+---
+
+## Key Collaborators
+
+{% for member in site.data.team_members %}
+{% if member.group == 3 %}
+
+<i class="alumni1">{{ member.name }}</i><br>
+<i class="alumni2">{{ member.info }} ({{ member.year }}</i>) {% if member.current %} 
+<i class="alumni2">Current: {{ member.current }}</i> {% if member.extlink %} <a class="alumni2" style="padding-left: 0px;" href="{{ member.extlink }}">(Link)</a>
+{% endif %}
+{% endif %}
+
+{% endif %}
+{% endfor %}
 ---
 
 ## Graduate Students
