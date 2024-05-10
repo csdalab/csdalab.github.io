@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Sy 
-position: Undergraduate Student
+position: Graduate Student
 handle: sy
 email: 
 twitter:
