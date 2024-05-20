@@ -1,9 +1,8 @@
 - title: "The Lomax-Exponentiated Odds Ratio–G Distribution and Its Applications"
   image: 
-  description: "This paper introduces the Lomax-exponentiated odds ratio–G (L-EOR–G) distribution, a novel framework designed to adeptly navigate the complexities of modern datasets. It blends theoretical rigor with practical application to surpass the limitations of traditional models in capturing complex data attributes such as heavy tails, shaped curves, and multimodality. Through a comprehensive examination of its theoretical foundations and empirical data analysis, this study lays down a systematic theoretical framework by detailing its statistical properties and validates the distribution’s efficacy and robustness in parameter estimation via Monte Carlo simulations. Empirical evidence from real-world datasets further demonstrates the distribution’s superior modeling capabilities, supported by compelling various goodness-of-fit tests. The convergence of theoretical precision and practical utility heralds the L-EOR–G distribution as a groundbreaking advancement in statistical modeling, significantly enhancing precision and adaptability. The new model not only addresses a critical need within statistical modeling but also opens avenues for future research, including the development of more sophisticated estimation methods and the adaptation of the model for various data types, thereby promising to refine statistical analysis and interpretation across a wide array of disciplines."
-  authors: 
-  link: https://www.mdpi.com/2227-7390/12/10/1578
-    url:  https://www.mdpi.com/2227-7390/12/10/1578
+  description: 
+  link: "https://www.mdpi.com/2227-7390/12/10/1578"
+    url: 
     display: Sudakshina Singha Roy, Hannah Knehr, Declan McGurk, Xinyu Chen, Achraf CohenORCID and Shusen Pu
   highlight: 2
   news2: 
