@@ -11,7 +11,7 @@ permalink: /publications/
 
 ---
 
-## Peer-reviewed Papers
+## Journal and Conference Papers
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
