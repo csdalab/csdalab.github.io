@@ -10,7 +10,7 @@ permalink: /contact/
 
 ## Weekly Meetings
 
-Please join our weekly **Fridays** meeting from 9:30 AM to 10:30 AM in Building 4 / Room 212.
+Please join our weekly **Thursday** and **Fridays** meeting from 9:30 AM to 11:00 AM in Building 4 / Room 212.
 
 ## Contact
 
