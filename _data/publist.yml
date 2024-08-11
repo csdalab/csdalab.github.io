@@ -3,7 +3,7 @@
   description: 
   link: 
     url: https://www.tandfonline.com/doi/pdf/10.1080/03610918.2024.2310689
-    display: Carla Wilson and Achraf Cohen 
+    display: Carla Wilson and Achraf Cohen (2024)
   highlight: 2
   news2: 
 - title: "Interfacing with Large-scale Clinical Trials Data: The Database for Aggregate Analysis of ClinicalTrials.gov"
@@ -11,16 +11,16 @@
   description: 
   link: 
     url: https://www.pharmasug.org/proceedings/2024/RW/PharmaSUG-2024-RW-453.pdf
-    display: Joshua Cook and Achraf Cohen 
+    display: Joshua Cook and Achraf Cohen (PharmaSUG 2024)
   highlight: 2
   news2: 
 - title: "A Comparative Approach to Predicting Student Dropouts using ELS: 2002 Study"
-  image: Emmanuel_Anna_summer24.jpg
+  image: Emmanuel_Anna_summer24.jpg 
   description: 
   authors: 
   link:
     url:  
-    display: Emmanuel Paalam, Thuong Huynh, Dr. Cohen (2024) at SURP 2024
+    display: Emmanuel Paalam, Thuong Huynh, Achraf Cohen (SURP Symposium UWF Summer 2024)
   highlight: 1
   news2: 
 - title: "Predicting Student Graduation using the ELS: 2002 data"
@@ -29,7 +29,7 @@
   authors: 
   link:
     url:  
-    display: Jaoquin Everest, Dr. Cohen (2024) at SURP 2024
+    display: Jaoquin Everest, Achraf Cohen (SURP Symposium UWF Summer 2024)
   highlight: 1
   news2:
 - title: "Some Properties of the Second-Generation P-value"
@@ -46,7 +46,7 @@
   description: 
   link: 
     url: https://www.mdpi.com/2227-7390/12/10/1578
-    display: Sudakshina Singha Roy, Hannah Knehr, Declan McGurk, Xinyu Chen, Achraf Cohen and Shusen Pu
+    display: Sudakshina Singha Roy, Hannah Knehr, Declan McGurk, Xinyu Chen, Achraf Cohen and Shusen Pu (2024)
   highlight: 2
   news2: 
 - title: "Designing Hotelling's T2 Chart for Anomaly Detection in loT Systems"
