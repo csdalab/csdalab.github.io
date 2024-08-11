@@ -31,6 +31,15 @@
     url:  
     display: Jaoquin Everest, Dr. Cohen (2024) at SURP 2024
   highlight: 1
+  news2:
+- title: "Some Properties of the Second-Generation P-value"
+  image: poster_DW_AC_UWF2024.jpg
+  description: 
+  authors: 
+  link:
+    url:  
+    display: Daniel Wilson and Achraf Cohen at Conference of Florida Graduate Schools 2024
+  highlight: 1
   news2: 
 - title: "The Lomax-Exponentiated Odds Ratio–G Distribution and Its Applications"
   image: lomax.png
