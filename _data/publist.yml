@@ -6,6 +6,7 @@
     display: Carla Wilson and Achraf Cohen (2024)
   highlight: 2
   news2: 
+  
 - title: "Interfacing with Large-scale Clinical Trials Data: The Database for Aggregate Analysis of ClinicalTrials.gov"
   image: 
   description: 
@@ -14,6 +15,7 @@
     display: Joshua Cook and Achraf Cohen (PharmaSUG 2024)
   highlight: 2
   news2: 
+  
 - title: "A Comparative Approach to Predicting Student Dropouts using ELS: 2002 Study"
   image: Emmanuel_Anna_summer24.jpg 
   description: 
@@ -23,6 +25,7 @@
     display: Emmanuel Paalam, Thuong Huynh, Achraf Cohen (SURP Symposium UWF Summer 2024)
   highlight: 1
   news2: 
+  
 - title: "Predicting Student Graduation using the ELS: 2002 data"
   image: Joaquin_smr2024jpg.jpg
   description: 
@@ -32,6 +35,7 @@
     display: Jaoquin Everest, Achraf Cohen (SURP Symposium UWF Summer 2024)
   highlight: 1
   news2:
+  
 - title: "Some Properties of the Second-Generation P-value"
   image: poster_DW_AC_UWF2024.jpg
   description: 
@@ -41,6 +45,17 @@
     display: Daniel Wilson and Achraf Cohen at Conference of Florida Graduate Schools 2024
   highlight: 1
   news2: 
+  
+- title: "Statistical Considerations in the Development of a Consensus Statement"
+  image: CSP_Poster_FINAL_22FEB2024.jpg
+  description: 
+  authors: 
+  link:
+    url:  
+    display: Joshua J. Cook, Andrew Jimenez, Joshua Stillman, Achraf Cohen at Conference of Statistical Practice CSP 2024 (**BEST POSTER**)
+  highlight: 1
+  news2: BEST POSTER
+  
 - title: "The Lomax-Exponentiated Odds Ratio–G Distribution and Its Applications"
   image: lomax.png
   description: 
@@ -49,6 +64,7 @@
     display: Sudakshina Singha Roy, Hannah Knehr, Declan McGurk, Xinyu Chen, Achraf Cohen and Shusen Pu (2024)
   highlight: 2
   news2: 
+  
 - title: "Designing Hotelling's T2 Chart for Anomaly Detection in loT Systems"
   image: Sy_Surp_2023_poster.jpg
   description: 
