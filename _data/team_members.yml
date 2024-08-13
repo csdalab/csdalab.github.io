@@ -15,6 +15,12 @@
   info: Associate Professor / AI and ML
   url: brian
   group: 0
+
+- name: Susanta Deka 
+  photo: susanta.png
+  info: Graduate Student
+  url: susanta
+  group: 1
   
 - name: Steven Le
   photo: stevenLe.jpg
@@ -74,6 +80,12 @@
   info: Graduate Student
   url: richard
   group: 1
+
+- name: Yahvdiel Mendez
+  photo: yad.jpeg
+  info: Undergraduate Student
+  url: yahvdiel
+  group: 2
   
 - name: Shrishti
   photo: shrishti.jpg
