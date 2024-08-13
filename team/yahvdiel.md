@@ -2,12 +2,12 @@
 layout: member
 title: Yahvdiel Mendez Rosario 
 position: Undergraduate Student
-handle: yad
+handle: yahvdiel
 email:  
 twitter:
 github:
 scholar: 
-photo: yad.jpg
+photo: yad.jpeg
 ---
 
 ### Overview
