@@ -10,7 +10,10 @@ permalink: /contact/
 
 ## Weekly Meetings
 
-Please join our weekly **Thursday** and **Fridays** meeting from 9:30 AM to 11:00 AM in Building 4 / Room 212.
+Please join our weekly **Thursday** and **Fridays** meeting from 9:15 AM to 11:00 AM in Building 4 / Room 212.
+- Dr. Cohen's Team meets on Thursdays
+- Dr. Pu's Team meets on Fridays
+- Bi-weekly meetings for the entire lab
 
 ## Contact
 
