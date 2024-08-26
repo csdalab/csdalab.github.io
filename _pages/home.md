@@ -47,7 +47,8 @@ Please review the [**research guidelines**](rules) and inform your advisor of yo
 If you are interested in joining, please go to the [recruitment](recruitment) page.
 
 ### Grants 
-<img src="../images/gradschooluwf.png" alt="grad school" width="200"/>
-<img src="../images/alumniuwf.png" alt="alumni asso" width="200"/>
-Student Government Association (SGA) UWF
+- Air Force Research Laboratory  
+- <img src="../images/gradschooluwf.png" alt="grad school" width="100"/>
+- <img src="../images/alumniuwf.png" alt="alumni asso" width="100"/>
+- Student Government Association (SGA) UWF
 
