@@ -10,7 +10,7 @@
   url: shusen
   group: 0
   
-- name: Brian Jalaian
+- name: Brian Jalaian [https://www.brianjalaian.com/](https://www.brianjalaian.com/)
   photo: brian.jpg
   info: Associate Professor / AI and ML
   url: brian
@@ -20,6 +20,12 @@
   photo: susanta.png
   info: Graduate Student
   url: susanta
+  group: 1
+
+- name: Sudakshina Singha Roy
+  photo: su.jpg
+  info: Graduate Student
+  url: su
   group: 1
   
 - name: Steven Le
