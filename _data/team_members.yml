@@ -250,3 +250,8 @@
   url: emmanuel
   group: 2
   
+- name: David Moe
+  photo: david.jpeg
+  info: Undergraduate Student
+  url: david
+  group: 2
