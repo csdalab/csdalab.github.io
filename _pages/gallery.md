@@ -7,9 +7,8 @@ permalink: /gallery
 ---
 
 ### Neuroscience 2024 Conference
-![]({{ site.url }}{{ site.baseurl }}/images/newspic/com2024josh.jpg){: style="width: 400px; float: center;margin-right: 20px; border: 10px"} ![]({{ site.url }}{{ site.baseurl }}/images/newspic/neuroscience2024.jpg){: style="width: 400px; width: 400px; float: center;margin-right: 20px; border: 10px"} 
-![]({{ site.url }}{{ site.baseurl }}/images/newspic/com2024josh.jpg){: style="width: 400px; float: center;margin-right: 20px; border: 10px"} ![]({{ site.url }}{{ site.baseurl }}/images/newspic/neuro2025.jpg){: style="width: 400px; width: 400px; float: center;margin-right: 20px; border: 10px"} 
 
+![]({{ site.url }}{{ site.baseurl }}/images/newspic/neuroscience2024.jpg){: style="width: 400px; float: center;margin-right: 20px; border: 10px"} ![]({{ site.url }}{{ site.baseurl }}/images/newspic/neuro2025.jpg){: style="width: 400px; width: 400px; float: center;margin-right: 20px; border: 10px"} 
 
 ### Commencement Spring 2024! 
  
@@ -17,11 +16,11 @@ permalink: /gallery
 
 
 ### NCUR 2024
-![]({{ site.url }}{{ site.baseurl }}/images/newspic/ncur2024.jpg){: style="width: 400px; float: center;margin-right: 20px; border: 10px"} 
+![]({{ site.url }}{{ site.baseurl }}/images/newspic/ncur2024.jpg){: style="width: 600px; float: center;margin-right: 20px; border: 10px"} 
 <br> Left to Right: Kellie, Shrishti, Dylan - The 2024 National Conference Undergraduate Research
 
 
-<---### CFGS 2024
+<!---### CFGS 2024
 ![]({{ site.url }}{{ site.baseurl }}/images/newspic/uwf_MathStat_competition2024.jpg){: style="width: 400px; float: center;margin-right: 20px; border: 10px"} ![]({{ site.url }}{{ site.baseurl }}/images/newspic/photo_comp.jpg){: style="width: 400px; width: 400px; float: center;margin-right: 20px; border: 10px"} <br> Left to Right: Jason Gerstenberger, Dylan Wright, Gail Han - The 2024 USC National Big Data Health Science Student Case Competition-->
 
 
