@@ -12,7 +12,7 @@ permalink: /team/
 
 ---
 
-## Lab PIs
+## Directors 
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
@@ -45,7 +45,7 @@ permalink: /team/
 
 ---
 
-## Key Collaborators
+## Principal Investigators
 
 
 {% assign number_printed = 0 %}
