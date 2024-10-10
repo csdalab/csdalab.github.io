@@ -15,7 +15,7 @@ permalink: /research/
 2. Monitoring mass spectrometry data
 3. Desing of the Hotelling T2 control chart for IoT data
 
-### Mathematics, Statistics, and Machine learning Projects
+### Mathematics, Statistics, and Applied Machine Learning Projects
 1. Confidence Intervals for Binomial Proportions - Simulation Study
 2. Second Generation of p-values
 3. Latent Class Analysis and Sample Size Determination
