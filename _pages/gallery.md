@@ -8,7 +8,7 @@ permalink: /gallery
 
 ### Neuroscience 2024 Conference
 
-![]({{ site.url }}{{ site.baseurl }}/images/newspic/neuroscience2024.jpg){: style="width: 400px; float: center;margin-right: 20px; border: 10px"} ![]({{ site.url }}{{ site.baseurl }}/images/newspic/neuro2025.jpg){: style="width: 400px; width: 400px; float: center;margin-right: 20px; border: 10px"} 
+![]({{ site.url }}{{ site.baseurl }}/images/newspic/neuro2024.jpg){: style="width: 400px; float: center;margin-right: 20px; border: 10px"} ![]({{ site.url }}{{ site.baseurl }}/images/newspic/neuro2025.jpg){: style="width: 400px; width: 400px; float: center;margin-right: 20px; border: 10px"} 
 
 ### Commencement Spring 2024! 
  
