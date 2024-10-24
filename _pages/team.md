@@ -45,7 +45,7 @@ permalink: /team/
 
 ---
 
-## Principal Investigators
+## Collaborators
 
 
 {% assign number_printed = 0 %}
