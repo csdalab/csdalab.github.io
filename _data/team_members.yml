@@ -86,7 +86,13 @@
   info: Graduate Student
   url: richard
   group: 1
-
+  
+- name: Blake Flower
+  photo: blake.jpg
+  info: HS-Undergraduate Student
+  url: blake
+  group: 2
+  
 - name: Yahvdiel Mendez
   photo: yad.jpeg
   info: Undergraduate Student
