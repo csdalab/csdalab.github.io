@@ -23,7 +23,7 @@ permalink: /
 
 
  ![]({{ site.url }}{{ site.baseurl }}/images/newspic/csdalabsp2025.jpg){: style="width: 700px; float: center;margin-right: 20px; border: 10px"} 
- *CSDA Lab Meetings in Fall 2024* 
+ *CSDA Lab Meetings in Spring 2025* 
 
 
 
