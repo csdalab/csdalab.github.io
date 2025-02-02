@@ -22,7 +22,7 @@ permalink: /
 - **Health and Education Analytics**: Improving health and education outcomes using data analytics and AI.
 
 
- ![]({{ site.url }}{{ site.baseurl }}/images/newspic/csdalabsp2025.jpg){: style="width: 700px; float: center;margin-right: 20px; border: 10px"} 
+ ![]({{ site.url }}{{ site.baseurl }}/images/newspic/csdalabsp2025.jpg){: style="width: 700px; height= 600px;float: center;margin-right: 20px; border: 10px"} 
  *CSDA Lab Meetings in Spring 2025* 
 
 
