@@ -12,7 +12,7 @@ permalink: /gallery
 
 
 ### CSDA Lab Meeting Fall 2024
-![]({{ site.url }}{{ site.baseurl }}/images/newspic/csdalabf24.jpg){: style="width: 400px; float: center;margin-right: 20px; border: 10px"} 
+![]({{ site.url }}{{ site.baseurl }}/images/newspic/csdalabf24.jpg){: style="width: 700px; float: center;margin-right: 20px; border: 10px"} 
 
 
 ### Commencement Spring 2024! 
@@ -22,8 +22,7 @@ permalink: /gallery
 
 
 ### UWF Research Symposium Spring 2024
-
-![]({{ site.url }}{{ site.baseurl }}/images/newspic/uwfsyp2024.jeg){: style="width: 400px; float: center;margin-right: 20px; border: 10px"} 
+![]({{ site.url }}{{ site.baseurl }}/images/newspic/uwfsyp2024.jeg){: style="width: 500px; float: center;margin-right: 20px; border: 10px"} 
 
 ### NCUR 2024
 ![]({{ site.url }}{{ site.baseurl }}/images/newspic/ncur2024.jpg){: style="width: 600px; float: center;margin-right: 20px; border: 10px"} 
