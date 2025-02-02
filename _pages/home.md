@@ -47,6 +47,7 @@ Please review the [**research guidelines**](rules) and inform your advisor of yo
 If you are interested in joining, please go to the [recruitment](recruitment) page.
 
 ### Grants 
+- Army Laboratory
 - Air Force Research Laboratory  
 - <img src="../images/gradschooluwf.png" alt="grad school" width="100"/>
 - <img src="../images/alumniuwf.png" alt="alumni asso" width="100"/>
