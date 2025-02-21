@@ -14,13 +14,13 @@
   photo: brian.jpg
   info: Associate Professor / AI - DL - ML
   url: brian
-  group: 0
+  group: 3
 
 - name: Maryam Taeb [https://maryamtaeb.github.io/](https://maryamtaeb.github.io/)
   photo: maryam.jpg
   info: Assistant Professor / Cybersecurity - AI
   url: maryam
-  group: 8
+  group: 0
   
 - name: Michael Tamascelli 
   photo: michaelT.jpg
