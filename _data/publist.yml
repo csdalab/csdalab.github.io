@@ -34,6 +34,16 @@ Cohen (2025)
     display: Carla Wilson and Achraf Cohen (2024)
   highlight: 2
   news2: 
+  
+- title: "Advancing Continuous Distribution Generation: An Exponentiated Odds Ratio Generator Approach"
+  image: 
+  description: Entropy
+  link: 
+    url: https://www.mdpi.com/1099-4300/26/12/1006
+    display: Xinyu Chen, Zhenyu Shi, Yuanqi Xie, Zichen Zhang, Achraf Cohen, Shusen Pu (2025)
+  highlight: 2
+  news2: 
+  
 - title: "Interfacing with Large-scale Clinical Trials Data: The Database for Aggregate Analysis of ClinicalTrials.gov"
   image: 
   description: 
