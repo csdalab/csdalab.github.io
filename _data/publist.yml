@@ -1,30 +1,3 @@
-- title: "Academic Advising Chatbot Powered with AI Agent"
-  image: 
-  description: "ACM Southeast Conference (ACMSE 2025), April 24-26, 2025, Cape Girardeau, MO, USA. ACM"
-  link: 
-    url: 
-    display: Michael Tamascelli, Olivia Bunch, Blake Fowler, Maryam Taeb, and Achraf Cohen (2025)
-  highlight: 2
-  news2: 
- 
- - title: "Design of the Hotelling T2 Control Chart for Anomaly Detection in IoT Systems"
-  image: 
-  description: IEEE SoutheastCon 2025
-  link: 
-    url: 
-    display: Sy Fontenot, Jack Lovett, Thomas Reichherzer, and Achraf Cohen (2025)
-  highlight: 2
-  news2: 
-  
-- title: "From Theory to Practice: The Ristic-Balakrishnan-Harris-G Family of Distributions and Its Applications"
-  image: 
-  description: Journal of Statistics Applications and Probability
-  link: 
-    url: https://www.naturalspublishing.com/Article.asp?ArtcID=27990
-    display: Shusen Pu, Thatayaone Moakofi, Broderick Oluyede and Achraf Cohen (2025)
-  highlight: 2
-  news2: 
-  
 - title: "The impact of imputation methods on the performance of Phase I Hotelling’s T2 control chart"
   image: 
   description: 
@@ -33,16 +6,7 @@
     display: Carla Wilson and Achraf Cohen (2024)
   highlight: 2
   news2: 
-  
-- title: "Advancing Continuous Distribution Generation: An Exponentiated Odds Ratio Generator Approach"
-  image: 
-  description: Entropy
-  link: 
-    url: https://www.mdpi.com/1099-4300/26/12/1006
-    display: Xinyu Chen, Zhenyu Shi, Yuanqi Xie, Zichen Zhang, Achraf Cohen, Shusen Pu (2025)
-  highlight: 2
-  news2: 
-  
+
 - title: "Interfacing with Large-scale Clinical Trials Data: The Database for Aggregate Analysis of ClinicalTrials.gov"
   image: 
   description: 
