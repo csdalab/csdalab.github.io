@@ -20,7 +20,7 @@
   photo: maryam.jpg
   info: Assistant Professor / Cybersecurity - AI
   url: maryam
-  group: 0
+  group: 3
   
 - name: Michael Tamascelli 
   photo: michaelT.jpg
@@ -32,19 +32,22 @@
   photo: susanta.png
   info: Graduate Student
   url: susanta
-  group: 1
+  group: 8
+  year: 2025
 
 - name: Sudakshina Singha Roy
   photo: su.jpg
   info: Graduate Student
   url: su
-  group: 1
+  group: 8
+  year: 2025
   
 - name: Steven Le
   photo: stevenLe.jpg
   info: Graduate Student
   url: stevenle
-  group: 1
+  group: 8
+  year: 2025
   
 - name: Nitul Singha
   photo: nitul.jpg
@@ -85,7 +88,8 @@
   photo: michael.png
   info: Graduate Student
   url: michael
-  group: 1
+  group: 8
+  year: 2025
 
 - name: Sassou Khabou
   photo: sassou.jpg
@@ -113,9 +117,9 @@
   
 - name: Shrishti
   photo: shrishti.jpg
-  info: Undergraduate Student
+  info: Graduate Student
   url: shrishti
-  group: 2
+  group: 1
   
 - name: Leon Schröder
   photo: leon.jpg
@@ -171,6 +175,7 @@
   info: Undergraduate Student
   url: allan
   group: 8
+  year: 2024
 
 - name: Declan McGurk
   photo: declan.png
@@ -202,7 +207,8 @@
   photo: xinyu.png
   info: Graduate Student
   url: xinyu
-  group: 1
+  group: 8
+  year: 2025
  
 - name: Kellie Tamimi
   photo: kellie.png
@@ -214,7 +220,8 @@
   photo: jiayu.png
   info: Graduate Student
   url: jiayu
-  group: 1
+  group: 8
+  year: 2024
 
 - name: Sy
   photo: sy.jpg
@@ -254,7 +261,8 @@
   photo: joaquin.png
   info: Undergraduate Student
   url: joaquin
-  group: 2
+  group: 8
+  year: 2025
   
 - name: Emmanuel Paalam
   photo: emmanuel.jpg
@@ -264,6 +272,6 @@
   
 - name: David Moe
   photo: david.jpeg
-  info: Undergraduate Student
+  info: Graduate Student
   url: david
-  group: 2
+  group: 1
