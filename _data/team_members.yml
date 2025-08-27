@@ -1,4 +1,4 @@
-- name: Achraf Cohen
+- name: Achraf Cohen (Director)
   photo: achraf.jpg
   info: Associate Professor / Mathematics - Statistics - ML
   url: achraf
@@ -107,13 +107,15 @@
   photo: blake.jpg
   info: HS-Undergraduate Student
   url: blake
-  group: 2
+  group: 8
+  year: 2025
   
 - name: Yahvdiel Mendez
   photo: yad.jpeg
   info: Undergraduate Student
   url: yahvdiel
-  group: 2
+  group: 8
+  year: 2025
   
 - name: Shrishti
   photo: shrishti.jpg
@@ -275,3 +277,34 @@
   info: Graduate Student
   url: david
   group: 1
+
+- name: Atiye Buker
+  photo: atiye.jpeg
+  info: Undergraduate Student
+  url: atiye
+  group: 2 
+
+- name: Itamar Blau
+  photo: itamar.jpeg
+  info: Undergraduate Student
+  url: itamar
+  group: 2 
+
+- name: Huynh Tran 
+  photo: huynh.jpeg
+  info: PhD Student
+  url: huynh
+  group: 1 
+
+- name: Jacob Sander 
+  photo: jacob.jpeg
+  info: PhD Student
+  url: jacob
+  group: 1
+
+- name: Koushal Doddipatla 
+  photo: koushal.jpeg
+  info: Graduate Student
+  url: koushal
+  group: 1
+  
