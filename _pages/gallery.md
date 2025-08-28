@@ -7,11 +7,11 @@ permalink: /gallery
 ---
 
 ### CSDA Lab Meeting Spring 2025
-![]({{ site.url }}{{ site.baseurl }}/images/newspic/csdalabsp25.jpg){: style="width: 700px; float: center;margin-right: 20px; border: 10px"} 
+![]({{ site.url }}{{ site.baseurl }}/images/newspic/csdalabsp2025.jpg){: style="width: 700px; float: center;margin-right: 20px; border: 10px"} 
 
 ### UWF Research Symposium Summer 2025
 ![]({{ site.url }}{{ site.baseurl }}/images/pubpic/conf_uwf_surp_summer2025.jpg){: style="width: 400px; float: center;margin-right: 20px; border: 10px"} 
-![]({{ site.url }}{{ site.baseurl }}/images/pubpic/conf_uwf_surp_summer2025.jpg){: style="width: 400px; float: center;margin-right: 20px; border: 10px"} 
+![]({{ site.url }}{{ site.baseurl }}/images/pubpic/conf_uwf_surp_summer2025em.jpg){: style="width: 400px; float: center;margin-right: 20px; border: 10px"} 
 <br> With Emmanuel, Atiye, Joshua - UWF Research Symposium Summer 2025
 
 ### JMM 2025 Conference
