@@ -23,7 +23,7 @@ permalink: /
 - **Mathematical Statistics**: New probability distributions for various applications.
 - **Tools**: Developing R packages and Shiny apps.
 
- ![]({{ site.url }}{{ site.baseurl }}/images/newspic/csdalabsp2025.jpg){: style="width: 700px; height= 600px;float: center;margin-right: 20px; border: 10px"} 
+ ![]({{ site.url }}{{ site.baseurl }}/images/newspic/csdalabfa2025.jpg){: style="width: 700px; height= 600px;float: center;margin-right: 20px; border: 10px"} 
  *CSDA Lab Meetings in Spring 2025* 
 
 
