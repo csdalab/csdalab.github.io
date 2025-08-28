@@ -6,8 +6,15 @@ sitemap: false
 permalink: /gallery
 ---
 
-### JMM 2025 Conference
+### CSDA Lab Meeting Spring 2025
+![]({{ site.url }}{{ site.baseurl }}/images/newspic/csdalabsp25.jpg){: style="width: 700px; float: center;margin-right: 20px; border: 10px"} 
 
+### UWF Research Symposium Summer 2025
+![]({{ site.url }}{{ site.baseurl }}/images/pubpic/conf_uwf_surp_summer2025.jpg){: style="width: 400px; float: center;margin-right: 20px; border: 10px"} 
+![]({{ site.url }}{{ site.baseurl }}/images/pubpic/conf_uwf_surp_summer2025.jpg){: style="width: 400px; float: center;margin-right: 20px; border: 10px"} 
+<br> With Emmanuel, Atiye, Joshua - UWF Research Symposium Summer 2025
+
+### JMM 2025 Conference
 ![]({{ site.url }}{{ site.baseurl }}/images/newspic/jmm2025.jpeg){: style="width: 400px; float: center;margin-right: 20px; border: 10px"} 
 
 
@@ -27,7 +34,7 @@ permalink: /gallery
 ### NCUR 2024
 ![]({{ site.url }}{{ site.baseurl }}/images/newspic/ncur2024.jpg){: style="width: 600px; float: center;margin-right: 20px; border: 10px"} 
 <br> Left to Right: Kellie, Shrishti, Dylan - The 2024 National Conference Undergraduate Research
-I
+
 
 ### CSDA Lab Meeting Spring 2024
 ![]({{ site.url }}{{ site.baseurl }}/images/newspic/csdalabsp24.jpg){: style="width: 400px; float: center;margin-right: 20px; border: 10px"} 
