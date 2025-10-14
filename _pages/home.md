@@ -38,7 +38,7 @@ The CSDA Lab is primarily a data analytics group that uses a wide range of stati
 - Signal processing: Wavelet analysis, Fourier transforms, multiscale analysis, and more. 
 - Tools: R, Quarto, Python, SAS, and MATLAB.
 
- ![]({{ site.url }}{{ site.baseurl }}/images/newspic/csdalabpic.jpg){: style="width: 600px; height= 600px;float: center;margin-right: 20px; border: 10px"} 
+ ![]({{ site.url }}{{ site.baseurl }}/images/newspic/csdalabpic.png){: style="width: 600px; height= 600px;float: center;margin-right: 20px; border: 10px"} 
   
 
 ## Grants and Collaboration
