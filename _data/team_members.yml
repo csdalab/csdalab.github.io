@@ -1,5 +1,5 @@
 # faculty
-- name: Achraf Cohen (Lead PI)
+- name: Achraf Cohen 
   photo: achraf.jpg
   info: Associate Professor / Mathematics - Statistics - ML
   url: achraf
@@ -9,7 +9,7 @@
   photo: shusen.png
   info: Assistant Professor / Neuroscience - DL
   url: shusen
-  group: 0
+  group: 3
   
 - name: Brian Jalaian [https://www.brianjalaian.com/](https://www.brianjalaian.com/)
   photo: brian.jpg
@@ -114,19 +114,19 @@
   photo: simone.jpg
   info: Undergraduate Student
   url: simone
-  group: 2
+  group: 8
 
 - name: Declan McGurk
   photo: declan.png
   info: Undergraduate Student
   url: declan
-  group: 2
+  group: 8
 
 - name: Christina Hoffman
   photo: christina.png 
   info: Undergraduate Student
   url: christina
-  group: 2
+  group: 8
 
   # alumni
 - name: Sassou Khabou
