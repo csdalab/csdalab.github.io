@@ -10,14 +10,13 @@ permalink: /contact/
 
 ## Weekly Meetings
 
-Please join our weekly Friday meeting from 9:00 to 10:00 a.m. in Building 4, Room 212.
+Please join our biweekly meeting on Wednesdays from 11:00 to 12:00 p.m. in Building 4, Room 212.
   - On Fridays, senior students lead a Python tutoring session at 10:00 a.m. in Building 4, Room 212.
 
 ## Contact
 
 If you have any questions about the CSDA Lab, please contact:
 - Dr. Achraf Cohen - acohen@uwf.edu ; webpage: [https://pages.uwf.edu/acohen/](https://pages.uwf.edu/acohen/)
-- Dr. Shusen Pu - spu@uwf.edu; webpage: [https://www.shusenpu.com/](https://www.shusenpu.com/)
 
 ## Location
 
