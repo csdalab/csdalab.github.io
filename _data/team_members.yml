@@ -5,23 +5,6 @@
   url: achraf
   group: 0
   
-- name: Shusen Pu [https://www.shusenpu.com/](https://www.shusenpu.com/)
-  photo: shusen.png
-  info: Assistant Professor / Neuroscience - DL
-  url: shusen
-  group: 3
-  
-- name: Brian Jalaian [https://www.brianjalaian.com/](https://www.brianjalaian.com/)
-  photo: brian.jpg
-  info: Associate Professor / AI - DL - ML
-  url: brian
-  group: 3
-
-- name: Maryam Taeb [https://maryamtaeb.github.io/](https://maryamtaeb.github.io/)
-  photo: maryam.jpg
-  info: Assistant Professor / Cybersecurity - AI
-  url: maryam
-  group: 3
 
 # graduates
 
@@ -127,8 +110,31 @@
   info: Undergraduate Student
   url: christina
   group: 8
+  
+#################################################################
+#################### collaborators ##############################
+#################################################################
+- name: Shusen Pu [https://www.shusenpu.com/](https://www.shusenpu.com/)
+  photo: shusen.png
+  info: Assistant Professor / Neuroscience - DL
+  url: shusen
+  group: 3
+  
+- name: Brian Jalaian [https://www.brianjalaian.com/](https://www.brianjalaian.com/)
+  photo: brian.jpg
+  info: Associate Professor / AI - DL - ML
+  url: brian
+  group: 3
 
-  # alumni
+- name: Maryam Taeb [https://maryamtaeb.github.io/](https://maryamtaeb.github.io/)
+  photo: maryam.jpg
+  info: Assistant Professor / Cybersecurity - AI
+  url: maryam
+  group: 3
+
+  #############################################
+  ##################### alumni #################
+  ##############################################
 - name: Sassou Khabou
   photo: sassou.jpg 
   info: Graduate Student (data science)
