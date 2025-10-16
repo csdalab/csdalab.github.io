@@ -14,13 +14,12 @@ permalink: /
 
 **CSDA** (Computational Statistics and Data Analytics) is a **multidisciplinary student-centered research group**, working on research projects in applied statistics, machine learning, deep learning, and AI. The following are the main areas of research (but not limited to):
 
-- **Statistical monitoring**: Statistical methods for system monitoring purposes, including control charts, health monitoring, profile monitoring, IoT monitoring, image monitoring, etc.
-- **Statistics & AI**: AI model compression techniques and optimization: fine-tuning, knowledge distillation, pruning, quantization. Multidisciplinary problems in Engineering, Biology, Chemistry, Education, Sports, and Health.
+- **Statistical monitoring**: statistical methods for system monitoring purposes, including control charts, health monitoring, profile monitoring, IoT monitoring, image monitoring, etc.
+- **Statistics for AI**: AI model compression techniques and optimization: fine-tuning, knowledge distillation, pruning, quantization.
 - **Uncertainty Quantification**: conformal predictors and robust statistics
-- **Health Analytics**: sports medicine/orthopedics, cancer flow cytometry, cancer with metabolic syndromes, predictive modeling
-- **Education Analytics**: AI advising chatbot, RAG systems, and predictive modeling.
-- **Mathematical Statistics**: New probability distributions for various applications.
-- **Tools**: Developing R packages and Shiny apps.
+- **Health Analytics**: sports medicine/orthopedics, cancer flow cytometry, cancer x metabolic syndromes, predictive modeling and causal inference.
+- **Education Analytics**: AI advising chatbot, RAG systems, LLM, Agents.
+
 
  ![]({{ site.url }}{{ site.baseurl }}/images/newspic/csdalabfa2025.jpg){: style="width: 600px; height= 600px;float: center;margin-right: 20px; border: 10px"} 
  *CSDA Lab Meetings in Spring 2025* 
@@ -38,7 +37,7 @@ The CSDA Lab is primarily a data analytics group that uses a wide range of stati
 - Signal processing: Wavelet analysis, Fourier transforms, multiscale analysis, and more. 
 - Tools: R, Quarto, Python, SAS, and MATLAB.
 
- ![]({{ site.url }}{{ site.baseurl }}/images/newspic/csdalabpic.png){: style="width: 600px; height= 600px;float: center;margin-right: 20px; border: 10px"} 
+ ![]({{ site.url }}{{ site.baseurl }}/images/newspic/csdalabpic.png){: style="width: 600px; height= 500px;float: center;margin-right: 20px; border: 10px"} 
   
 
 ## Grants and Collaboration
