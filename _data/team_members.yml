@@ -13,12 +13,6 @@
   info: Graduate Student (data science)
   url: shrishti
   group: 1
-
-- name: David Moe 
-  photo: david.jpeg
-  info: Graduate Student (data science)
-  url: david
-  group: 1
   
 - name: Koushal Doddipatla 
   photo: x.jpeg
@@ -30,24 +24,6 @@
   photo: michaelT.jpg
   info: Graduate Student (University of Ferrara and UWF)
   url: michaelT
-  group: 1
-
-- name: Huynh Tran 
-  photo: huynh.jpeg
-  info: PhD Student
-  url: huynh
-  group: 1 
-  
-- name: Jacob Sander 
-  photo: jacob.jpeg
-  info: PhD Student 
-  url: jacob
-  group: 1
-
-- name: Dylan Wright 
-  photo: dylan.png
-  info: Graduate Student (Mathematical Science)
-  url: dylan
   group: 1
 
 - name: Richard Odgers
@@ -74,13 +50,7 @@
   info: Undergraduate Student
   url: emmanuel
   group: 2
-  
-- name: Itamar Blau
-  photo: itamar.jpeg
-  info: Undergraduate Student
-  url: itamar
-  group: 2 
-  
+
 - name: Olivia Bunch
   photo: olivia.png 
   info: Undergraduate Student
@@ -92,34 +62,22 @@
   info: Undergraduate Student
   url: lance
   group: 2
-
-- name: Simone Landry 
-  photo: simone.jpg
+  
+- name: Itamar Blau
+  photo: itamar.jpeg
   info: Undergraduate Student
-  url: simone
-  group: 8
-
-- name: Declan McGurk
-  photo: declan.png
-  info: Undergraduate Student
-  url: declan
-  group: 8
-
-- name: Christina Hoffman
-  photo: christina.png 
-  info: Undergraduate Student
-  url: christina
-  group: 8
+  url: itamar
+  group: 2 
   
 #################################################################
 #################### collaborators ##############################
 #################################################################
 
-# - name: Shusen Pu [https://www.shusenpu.com/](https://www.shusenpu.com/)
-#   photo: shusen.png
-#   info: Assistant Professor / Neuroscience - DL
-#   url: shusen
-#   group: 3
+- name: Shusen Pu [https://www.shusenpu.com/](https://www.shusenpu.com/)
+  photo: shusen.png
+  info: Assistant Professor / Neuroscience - DL
+  url: shusen
+  group: 3
   
 # - name: Brian Jalaian [https://www.brianjalaian.com/](https://www.brianjalaian.com/)
 #   photo: brian.jpg
@@ -127,15 +85,64 @@
 #   url: brian
 #   group: 3
 
-# - name: Maryam Taeb [https://maryamtaeb.github.io/](https://maryamtaeb.github.io/)
-#   photo: maryam.jpg
-#   info: Assistant Professor / Cybersecurity - AI
-#   url: maryam
-#   group: 3
+- name: Maryam Taeb [https://maryamtaeb.github.io/](https://maryamtaeb.github.io/)
+  photo: maryam.jpg
+  info: Assistant Professor / Cybersecurity - AI
+  url: maryam
+  group: 3
 
   #############################################
   ##################### alumni #################
   ##############################################
+
+- name: Huynh Tran 
+  photo: huynh.jpeg
+  info: PhD Student
+  url: huynh
+  group: 8
+  year: 2025
+  
+- name: Jacob Sander 
+  photo: jacob.jpeg
+  info: PhD Student 
+  url: jacob
+  group: 8
+  year: 2025
+  
+- name: Dylan Wright 
+  photo: dylan.png
+  info: Graduate Student (Mathematical Science)
+  url: dylan
+  group: 1
+  year: 2025
+  
+- name: Simone Landry 
+  photo: simone.jpg
+  info: Undergraduate Student
+  url: simone
+  group: 8
+  year: 2025
+
+- name: Declan McGurk
+  photo: declan.png
+  info: Undergraduate Student
+  url: declan
+  group: 8
+  year: 2025
+
+- name: Christina Hoffman
+  photo: christina.png 
+  info: Undergraduate Student
+  url: christina
+  group: 8
+  
+- name: David Moe 
+  photo: david.jpeg
+  info: Graduate Student (data science)
+  url: david
+  group: 8
+  year: 2026
+  
 - name: Sassou Khabou
   photo: sassou.jpg 
   info: Graduate Student (data science)
