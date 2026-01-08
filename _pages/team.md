@@ -1,18 +1,18 @@
 ---
 title: "CSDA Lab - Team"
 layout: gridlay
-excerpt: "CSDA Lab: Team members"
+excerpt: "CSDA Lab: Team members."
 sitemap: false
 permalink: /team/
 ---
 
 # Team Members
-(Please click the name below for the lab memeber's profile)
+(Please click the name below for the lab member's profile)
 
 
 ---
 
-## Directed by
+## Director and Mentor
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
@@ -45,8 +45,7 @@ permalink: /team/
 
 ---
 
-## Collaborators
-
+## Faculty Collaborators
 
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
