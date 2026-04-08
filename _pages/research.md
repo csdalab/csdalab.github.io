@@ -10,7 +10,7 @@ permalink: /research/
 
 <!-- ![]({{ site.url }}{{ site.baseurl }}/images/respic/.png){: style="width: 300px; float: left;margin-right: 30px; border: 10px"} -->
 
-### FOCUS 1: Statistical Process Monitoring
+### FOCUS I: Statistical Process Monitoring
 1. Imputation methods' impact on the T2 Hotelling Statistic
 2. Monitoring mass spectrometry data and modeling
 3. Monitoring IoT streams
@@ -18,7 +18,7 @@ permalink: /research/
 5. Univariate and Multivariate models
 6. Wavelet-based statistics 
 
-### FOCUS 2: Biomedical and Statistics, Deep Learning, Machine Learning, and AI 
+### FOCUS II: Computational Biomedical and Health Applications 
 1. ACL injuries and isokinetic data
 2. ACL reconstruction and MRI data 
 3. Predictive models for Clinical Trial Enrollment Rates
@@ -27,10 +27,10 @@ permalink: /research/
 6. HPV vaccination x Metabolic Syndromes x Mental Health interaction
 7. Biomass predictive models for seaturtle 
 
-### FOCUS 3: Engineering and Statistics, Deep Learning, Machine Learning, and AI 
-1. LLM and VLM compression models: pruning, knowledge distillation, quantization, and Optimization.
-2. 3D point cloud segmentation and classification
-3. Chatbot Dev: RAG systems, system chunking, agentic RAG, multi-agents
+### FOCUS III: Engineering and Statistics, and AI 
+<!-- 1. LLM and VLM compression models: pruning, knowledge distillation, quantization, and Optimization. -->
+1. 3D point cloud segmentation and classification
+2. Chatbot Dev: RAG systems, system chunking, agentic RAG, multi-agents
 
 
 ### Students-Led Applied Mathematics Statistics Projects

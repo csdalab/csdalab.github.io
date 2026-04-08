@@ -1,13 +1,13 @@
 ---
-title: "CSDA Lab - Home"
+title: "Dr. Cohen | CSDA Lab - Home"
 layout: homelay
-excerpt: "Dr. Cohen |  CSDA Lab at UWF."
+excerpt: "CSDA Lab at UWF."
 sitemap: false
 permalink: /
 ---
 
  
- ![]({{ site.url }}{{ site.baseurl }}/images/csda.png){: style="width: 100px; float: left;margin-right: 20px; border: 10px"} <br>
+ ![]({{ site.url }}{{ site.baseurl }}/images/csda.png){: style="width: 100px; height=60px; float: left;margin-right: 20px; border: 10px"} <br>
  
  
 ## Computational Statistics and Data Analytics Lab 
