@@ -1,6 +1,6 @@
 ---
 layout: member
-title: Maryam Taeb
+title: Maryam Taeb, PhD
 position: Assistant Professor
 handle: maryam
 email:  mr@uwf.edu

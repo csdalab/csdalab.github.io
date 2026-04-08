@@ -1,29 +1,65 @@
 # faculty
 - name: Achraf Cohen 
   photo: achraf.jpg
-  info: Associate Professor / Mathematics - Statistics - ML
+  info: Associate Professor | Statistics | Data Science | ML | AI
   url: achraf
   group: 0
-  
 
-# graduates
+#################################################################
+#################### collaborators ##############################
+#################################################################
+
+- name: Shusen Pu [https://www.shusenpu.com/](https://www.shusenpu.com/)
+  photo: shusen.png
+  info: Assistant Professor | Neuroscience | DL | Mathematical Modeling
+  url: shusen
+  group: 3
+
+- name: Karishma Chhabria
+  photo: karishma.jpg
+  info: Assistant Professor | Population Health | MeTS | MHD | Cancer
+  url: karishma
+  group: 3
+
+- name: Maryam Taeb [https://maryamtaeb.github.io/](https://maryamtaeb.github.io/)
+  photo: maryam.jpg
+  info: Assistant Professor | Cybersecurity | AI
+  url: maryam
+  group: 3
+
+# - name: Brian Jalaian [https://www.brianjalaian.com/](https://www.brianjalaian.com/)
+#   photo: brian.jpg
+#   info: Associate Professor / AI - DL - ML
+#   url: brian
+#   group: 3
+
+
+#################################################################
+#################### Graduate ##############################
+#################################################################
 
 - name: Shrishti
   photo: shrishti.jpg
-  info: Graduate Student (data science)
+  info: Graduate Student (data science and mathematical science)
   url: shrishti
   group: 1
-  
-- name: Koushal Doddipatla 
-  photo: x.jpeg
-  info: Graduate Student (data science)
-  url: koushal
+
+- name: Emmanuel Paalam
+  photo: emmanuel.jpg
+  info: Graduate Student (2X SURP)
+  url: emmanuel
   group: 1
-  
-- name: Michael Tamascelli 
-  photo: michaelT.jpg
-  info: Graduate Student (University of Ferrara and UWF)
-  url: michaelT
+
+- name: Cheyanne Allred
+  photo: cheyanne.jpg
+  info: Graduate Student (data science)
+  url: cheyanne
+  group: 1
+
+- name: Dylan Wright 
+  photo: dylan.png
+  info: Graduate Student (Mathematical Science)
+  url: dylan
   group: 1
 
 - name: Richard Odgers
@@ -38,18 +74,21 @@
   url: aardra
   group: 1
 
-# undergraduates  
+- name: Christina Hoffman
+  photo: christina.png 
+  info: Undergraduate Student
+  url: christina
+  group: 1
+
+#################################################################
+#################### Undergraduate ##############################
+#################################################################
+
 - name: Atiye Buker
   photo: atiye.jpeg
-  info: Undergraduate Student 
+  info: Undergraduate Student (SURP)
   url: atiye
   group: 2 
-
-- name: Emmanuel Paalam
-  photo: emmanuel.jpg
-  info: Undergraduate Student
-  url: emmanuel
-  group: 2
 
 - name: Olivia Bunch
   photo: olivia.png 
@@ -62,38 +101,42 @@
   info: Undergraduate Student
   url: lance
   group: 2
-  
-- name: Itamar Blau
-  photo: itamar.jpeg
+
+- name: Logan Selner 
+  photo: logan.jpg
+  info: Undergraduate Student (SURP)
+  url: logan
+  group: 2
+
+
+- name: Simone Landry 
+  photo: simone.jpg
   info: Undergraduate Student
-  url: itamar
-  group: 2 
-  
-#################################################################
-#################### collaborators ##############################
-#################################################################
-
-- name: Shusen Pu [https://www.shusenpu.com/](https://www.shusenpu.com/)
-  photo: shusen.png
-  info: Assistant Professor / Neuroscience - DL
-  url: shusen
-  group: 3
-  
-# - name: Brian Jalaian [https://www.brianjalaian.com/](https://www.brianjalaian.com/)
-#   photo: brian.jpg
-#   info: Associate Professor / AI - DL - ML
-#   url: brian
-#   group: 3
-
-- name: Maryam Taeb [https://maryamtaeb.github.io/](https://maryamtaeb.github.io/)
-  photo: maryam.jpg
-  info: Assistant Professor / Cybersecurity - AI
-  url: maryam
-  group: 3
+  url: simone
+  group: 2
+  year: 2025
 
   #############################################
   ##################### alumni #################
   ##############################################
+  
+- name: Michael Tamascelli 
+  photo: michaelT.jpg
+  info: Graduate Student (University of Ferrara and UWF)
+  url: michaelT
+  group: 8
+
+- name: Itamar Blau
+  photo: itamar.jpeg
+  info: Undergraduate Student
+  url: itamar
+  group: 8 
+
+- name: Koushal Doddipatla 
+  photo: x.jpeg
+  info: Graduate Student (data science)
+  url: koushal
+  group: 8
 
 - name: Huynh Tran 
   photo: huynh.jpeg
@@ -109,32 +152,12 @@
   group: 8
   year: 2025
   
-- name: Dylan Wright 
-  photo: dylan.png
-  info: Graduate Student (Mathematical Science)
-  url: dylan
-  group: 1
-  year: 2025
-  
-- name: Simone Landry 
-  photo: simone.jpg
-  info: Undergraduate Student
-  url: simone
-  group: 8
-  year: 2025
-
 - name: Declan McGurk
   photo: declan.png
   info: Undergraduate Student
   url: declan
   group: 8
   year: 2025
-
-- name: Christina Hoffman
-  photo: christina.png 
-  info: Undergraduate Student
-  url: christina
-  group: 8
   
 - name: David Moe 
   photo: david.jpeg
@@ -145,7 +168,7 @@
   
 - name: Sassou Khabou
   photo: sassou.jpg 
-  info: Graduate Student (data science)
+  info: Teach Mathematics at UWF
   url: sassou
   group: 8
   year: 2025
@@ -159,7 +182,7 @@
 
 - name: Sudakshina Singha Roy
   photo: su.jpg
-  info: Graduate Student
+  info: PhD Student at University of Texas at Dallas
   url: su
   group: 8
   year: 2025
@@ -173,7 +196,7 @@
   
 - name: Nitul Singha
   photo: nitul.jpg
-  info: Graduate Student and TA
+  info: PhD Student at Clarkson University
   url: nitul
   group: 8
   year: 2024
@@ -194,7 +217,7 @@
   
 - name: Joshua Cook
   photo: joshua.jpg
-  info: Graduate Student
+  info: Clinical Researcher at Woodlands Medical Specialists and an Adjunct Instructor at UWF
   url: joshua
   group: 8
   year: 2024
@@ -215,7 +238,7 @@
   
 - name: Blake Fowler
   photo: blake.jpg
-  info: HS-Undergraduate Student
+  info: Graduate School at FSU
   url: blake
   group: 8
   year: 2025
@@ -250,14 +273,14 @@
 
 - name: Natalie Belford
   photo: natalie.png
-  info: Graduate Student
+  info: Mathematical Statistician at Gov 
   url: natalie
   group: 8
   year: 2024
 
 - name: Gail Han
   photo: gail.jpg
-  info: Graduate Student
+  info: Data Scientist at NFCU
   url: gail
   group: 8
   year: 2024
