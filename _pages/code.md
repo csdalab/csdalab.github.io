@@ -1,7 +1,7 @@
 ---
-title: "CSDA Lab - Code"
+title: "CSDA Lab - Tools"
 layout: textlay
-excerpt: "CSDA Lab -- Code."
+excerpt: "CSDA Lab -- Tools."
 sitemap: false
 permalink: /code/
 ---

@@ -16,7 +16,7 @@ Please join our biweekly meeting on Wednesdays from 11:00 to 12:00 p.m. in Build
 ## Contact
 
 If you have any questions about the CSDA Lab, please contact:
-- Dr. Achraf Cohen - acohen@uwf.edu ; webpage: [https://pages.uwf.edu/acohen/](https://pages.uwf.edu/acohen/)
+- Dr. Achraf Cohen - acohen@uwf.edu
 
 ## Location
 

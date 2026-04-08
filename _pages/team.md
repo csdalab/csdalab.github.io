@@ -12,7 +12,7 @@ permalink: /team/
 
 ---
 
-## Director and Mentor
+## PI and Mentor
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
@@ -79,7 +79,7 @@ permalink: /team/
 
 ---
 
-## Graduate Students
+## Graduate Students Collaborators
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
@@ -112,7 +112,7 @@ permalink: /team/
 
 ---
 
-## Undergraduate Students
+## Undergraduate Students Collaborators
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
