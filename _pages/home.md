@@ -1,7 +1,7 @@
 ---
 title: "CSDA Lab - Home"
 layout: homelay
-excerpt: "CSDA Lab at UWF."
+excerpt: "Dr. Cohen |  CSDA Lab at UWF."
 sitemap: false
 permalink: /
 ---

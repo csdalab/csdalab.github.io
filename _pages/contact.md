@@ -11,7 +11,7 @@ permalink: /contact/
 ## Weekly Meetings
 
 Please join our biweekly meeting on Wednesdays from 11:00 to 12:00 p.m. in Building 4, Room 212.
-  - On Fridays, senior students lead a Python tutoring session at 10:00 a.m. in Building 4, Room 212.
+  <!-- - On Fridays, senior students lead a Python tutoring session at 10:00 a.m. in Building 4, Room 212. -->
 
 ## Contact
 
