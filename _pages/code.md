@@ -10,7 +10,7 @@ permalink: /code/
 ## Tools and Applications
 
 
-## [Sea Turtle Biomass Prediction based on Morphometrics](https://acohen.shinyapps.io/seaturtlemass/) 
+### [Sea Turtle Biomass Prediction based on Morphometrics](https://acohen.shinyapps.io/seaturtlemass/) 
 
 
 <!-- <img src="{{ site.url }}{{ site.baseurl }}/images/codepic/WGS_Pipeline_Image.png" style="width: 300px"> 

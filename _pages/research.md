@@ -6,7 +6,7 @@ sitemap: false
 permalink: /research/
 ---
 
-# Research Areas (being updated)
+# Research Areas
 
 <!-- ![]({{ site.url }}{{ site.baseurl }}/images/respic/.png){: style="width: 300px; float: left;margin-right: 30px; border: 10px"} -->
 
@@ -19,13 +19,13 @@ permalink: /research/
 6. Wavelet-based statistics 
 
 ### FOCUS II: Computational Biomedical and Health Applications 
-1. ACL injuries and isokinetic data
+1. ACL re-injuries and isokinetic data
 2. ACL reconstruction and MRI data 
 3. Predictive models for Clinical Trial Enrollment Rates
 4. Uncertainty quantification for cancer flow cytometry gating
 5. Cancer and Metabolic syndromes: causal inference framework from _All of US Research_
 6. HPV vaccination x Metabolic Syndromes x Mental Health interaction
-7. Biomass predictive models for seaturtle 
+7. Biomass predictive models for seaturtle [[Sea Turtle Biomass Prediction based on Morphometrics](https://acohen.shinyapps.io/seaturtlemass/)]
 
 ### FOCUS III: Engineering and Statistics, and AI 
 <!-- 1. LLM and VLM compression models: pruning, knowledge distillation, quantization, and Optimization. -->
