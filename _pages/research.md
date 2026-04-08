@@ -33,7 +33,7 @@ permalink: /research/
 2. Chatbot Dev: RAG systems, system chunking, agentic RAG, multi-agents
 
 
-### Students-Led Applied Mathematics Statistics Projects
+### Students-Led Projects
 1. Confidence Intervals for Binomial Proportions 
 2. Second Generation of p-values
 3. Latent Class Analysis and Sample Size Determination
@@ -46,7 +46,7 @@ permalink: /research/
 
 
 
-## UWF Grant Resources
+## Student UWF Grant Resources
 - [UWF OUR travel](https://uwf.edu/academic-affairs/departments/undergraduate-research/sharing-research/our-travel-awards-program/)
 - [UWF Alumni Grants](https://uwf.edu/alumni/student-programs/alumni-grants/)
 - [UWF Opportunities](https://uwf.edu/graduate/tuition-funding/funding-opportunities/)
