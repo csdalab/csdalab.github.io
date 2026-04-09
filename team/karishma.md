@@ -7,7 +7,7 @@ email:  kchhabria@uwf.edu
 twitter:
 github:  
 scholar:  
-photo: maryam.jpg
+photo: karishma.jpg
 ---
 
 ### Overview
