@@ -1,5 +1,5 @@
 ---
-title: "Dr. Cohen | CSDA Lab - Home"
+title: "CSDA Lab - Home"
 layout: homelay
 excerpt: "CSDA Lab at UWF."
 sitemap: false
