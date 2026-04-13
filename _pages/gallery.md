@@ -6,6 +6,9 @@ sitemap: false
 permalink: /gallery
 ---
 
+### CSDA Lab Members Awards from MathStat Dep
+![]({{ site.url }}{{ site.baseurl }}/images/newspic/csdalabsp2025.jpg){: style="width: 700px; float: center;margin-right: 20px; border: 10px"} 
+
 ### CSDA Lab Meeting Spring 2025
 ![]({{ site.url }}{{ site.baseurl }}/images/newspic/csdalabsp2025.jpg){: style="width: 700px; float: center;margin-right: 20px; border: 10px"} 
 

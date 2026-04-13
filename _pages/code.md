@@ -7,10 +7,13 @@ permalink: /code/
 ---
 
 
-## Tools and Applications
+## Datasets, Tools, and Applications
 
+### LLM IAT dataset
+Associative Interference in Large Language Models Is Model-Dependent: Evidence from an Adapted Implicit Association Test.
 
 ### [Sea Turtle Biomass Prediction based on Morphometrics](https://acohen.shinyapps.io/seaturtlemass/) 
+
 
 
 <!-- <img src="{{ site.url }}{{ site.baseurl }}/images/codepic/WGS_Pipeline_Image.png" style="width: 300px"> 
