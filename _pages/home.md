@@ -26,11 +26,11 @@ permalink: /
 
 
 ## Grants and Collaboration
-- Air Force Research Laboratory
-- NIH All of Us Research Program
-- IHMC and ARL
-- Mayo Clinic
-- Andrews Research & Education Foundation
+- 📈 Air Force Research Laboratory
+- 🩺 NIH All of Us Research Program
+- 📈 IHMC and ARL
+- 🩺 Mayo Clinic
+- 🩺 Andrews Research & Education Foundation
 
 <!-- ## Methods and Technologies
 
