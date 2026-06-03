@@ -37,7 +37,7 @@ Our research integrates statistical modeling, uncertainty quantification, machin
 - **Uncertainty Quantification**: conformal predictors and robust statistics
 - **Health Analytics**: sports medicine/orthopedics, cancer flow cytometry, mental health x cancer x metabolic syndromes, predictive modeling and causal inference.
 <!-- - **Statistics for AI**: AI model compression techniques and optimization: fine-tuning, knowledge distillation, pruning, quantization. -->
-<!-- - **Education AI**: AI advising chatbot, RAG systems, LLM, Agents. --> -->
+<!-- - **Education AI**: AI advising chatbot, RAG systems, LLM, Agents. --> 
 
 
  ![]({{ site.url }}{{ site.baseurl }}/images/newspic/csdalabfa2025.jpg){: style="width: 600px; height= 600px;float: center;margin-right: 20px; border: 10px"} 
