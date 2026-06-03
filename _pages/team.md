@@ -12,7 +12,7 @@ permalink: /team/
 
 ---
 
-## PI and Mentor
+## Director and Mentor
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 

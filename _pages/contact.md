@@ -6,20 +6,39 @@ sitemap: false
 permalink: /contact/
 ---
 
-# Contact Information
+# Contact and Collaboration
 
-## Weekly Meetings
+## Research Meetings
 
-Please join our biweekly meeting on Wednesdays from 11:00 to 12:00 p.m. in Building 4, Room 212.
-  <!-- - On Fridays, senior students lead a Python tutoring session at 10:00 a.m. in Building 4, Room 212. -->
+The CSDA Lab hosts research meetings every other Wednesday from 11:00 a.m. to 12:00 p.m. in Building 4, Room 212.
+
+Current students, prospective students, and collaborators are welcome to attend by prior arrangement.
 
 ## Contact
 
-If you have any questions about the CSDA Lab, please contact:
-- Dr. Achraf Cohen - acohen@uwf.edu
+For information about research opportunities, collaborations, consulting projects, or student involvement, please contact:
+
+**Dr. Achraf Cohen**  
+Department of Mathematics and Statistics  
+University of West Florida  
+acohen@uwf.edu
 
 ## Location
 
-CSDA Lab is in the Department of Mathematics and Statistics at UWF - main campus - Room 337B, Floor 3, Building 4 (Dr. Cohen's office).
+Computational Statistics and Data Analytics (CSDA) Lab
 
-<!--<img src="{{ site.url }}{{ site.baseurl }}/images/contactpic/map.png" style="width: 600px">-->
+Department of Mathematics and Statistics  
+University of West Florida  
+Building 4 
+Pensacola, Florida
+
+## Opportunities
+
+The CSDA Lab welcomes inquiries from:
+
+- Undergraduate and graduate students interested in research
+- Faculty collaborators
+- Healthcare and industry partners
+- Organizations interested in data analytics, statistical consulting, and AI applications
+
+Prospective members should review the recruitment and research guidelines pages before contacting the lab.
