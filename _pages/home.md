@@ -1,6 +1,6 @@
 ---
 title: "CSDA Lab - Home"
-layout: homelay
+layout: home
 excerpt: "CSDA Lab at UWF."
 sitemap: false
 permalink: /

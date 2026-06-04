@@ -77,16 +77,19 @@ Together, these themes support the development of reliable, interpretable, and d
 
 
 ## Student Research Projects
+
 ### Statistical Methodology
 - Confidence intervals for binomial proportions
 - Second-generation p-values
 - Latent class analysis and sample size determination
+- Conformal Prediction set size random variable
+
 ### Machine Learning and Predictive Analytics
 - Cherry blossom prediction using machine learning and regression
+- Conformal Predictions 
 - Load forecasting models
 - R package development
 - R Shiny application development
-
 
 The CSDA Lab encourages undergraduate and graduate students to participate in interdisciplinary research, conference presentations, software development, and collaborative publications. Students work closely with faculty and external collaborators to develop both methodological and applied research skills.
 
