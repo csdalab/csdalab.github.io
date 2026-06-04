@@ -13,8 +13,6 @@ permalink: /
 ## Computational Statistics and Data Analytics Lab 
 
 
-### Trustworthy AI, Statistical Learning, and Decision Support
-
 The CSDA Lab develops statistical learning, trustworthy AI, and decision-support methodologies for applications in health, engineering, and society.
 
 Our research integrates statistical modeling, uncertainty quantification, machine learning, and domain expertise to improve prediction, monitoring, and decision making in complex systems.
