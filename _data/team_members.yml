@@ -9,11 +9,11 @@
 #################### collaborators ##############################
 #################################################################
 
-- name: Shusen Pu [https://www.shusenpu.com/](https://www.shusenpu.com/)
-  photo: shusen.png
-  info: Assistant Professor | Neuroscience | DL | Mathematical Modeling
-  url: shusen
-  group: 3
+# - name: Shusen Pu [https://www.shusenpu.com/](https://www.shusenpu.com/)
+#   photo: shusen.png
+#   info: Assistant Professor | Neuroscience | DL | Mathematical Modeling
+#   url: shusen
+#   group: 3
 
 - name: Karishma Chhabria
   photo: karishma.jpg

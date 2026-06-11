@@ -32,12 +32,13 @@ Together, these themes support the development of reliable, interpretable, and d
 
 ## Research Program II: Precision Health and Biomedical Analytics
 
-1. ACL injury prediction and rehabilitation analytics
-2. Predictive models for clinical trial enrollment
-3. Uncertainty quantification for cancer flow cytometry
-4. Causal inference using All of Us Research Program data
-5. Cancer, metabolic syndromes, mental health, and vaccination analytics
-6. Ecological and environmental predictive analytics
+1. Cancer Survivorship Analytics
+2. ACL injury prediction and rehabilitation analytics
+3. Predictive models for clinical trial enrollment
+4. Uncertainty quantification for cancer flow cytometry
+5. Causal inference using All of Us Research Program data
+6. Cancer, metabolic syndromes, mental health, and vaccination analytics
+. Ecological and environmental predictive analytics
 
 
 ## Research Program III: Trustworthy AI and Decision Support Systems
