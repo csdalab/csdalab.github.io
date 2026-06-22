@@ -50,11 +50,12 @@ Students in the CSDA Lab participate in collaborative research projects, publica
 ## Research Collaborations and Funding
 The CSDA Lab collaborates with academic, healthcare, government, and industry partners to develop data-driven solutions for scientific and operational challenges.
 
-- 📈 Air Force Research Laboratory
-- 🩺 NIH All of Us Research Program
-- 📈 IHMC and ARL
-- 🩺 Mayo Clinic
-- 🩺 Andrews Research & Education Foundation
+- 🩺 Florida Cancer Innovation Fund | 2026-2027
+- 📈 Air Force Research Laboratory | 2024-2026
+- 🩺 NIH All of Us Research Program | 2025-2026
+- 📈 IHMC and ARL | 2024-2025
+- 🩺 Mayo Clinic | 2025-2026
+- 🩺 Andrews Research & Education Foundation | 2022-present
 
 <!-- ## Methods and Technologies
 
