@@ -50,16 +50,10 @@
   url: emmanuel
   group: 1
 
-- name: Cheyanne Allred
-  photo: cheyanne.jpg
+- name: Helen Hung
+  photo: helen.jpg
   info: Graduate Student (data science)
-  url: cheyanne
-  group: 1
-
-- name: Dylan Wright 
-  photo: dylan.png
-  info: Graduate Student (Mathematical Science)
-  url: dylan
+  url: helen
   group: 1
 
 - name: Richard Odgers
@@ -120,6 +114,18 @@
   ##################### alumni #################
   ##############################################
   
+- name: Dylan Wright 
+  photo: dylan.png
+  info: Graduate Student (Mathematical Science)
+  url: dylan
+  group: 8
+
+- name: Cheyanne Allred
+  photo: cheyanne.jpg
+  info: Graduate Student (data science)
+  url: cheyanne
+  group: 8
+
 - name: Michael Tamascelli 
   photo: michaelT.jpg
   info: Graduate Student (University of Ferrara and UWF)
