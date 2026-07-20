@@ -21,11 +21,11 @@
   url: karishma
   group: 3
 
-- name: Maryam Taeb [https://maryamtaeb.github.io/](https://maryamtaeb.github.io/)
-  photo: maryam.jpg
-  info: Assistant Professor | Cybersecurity | AI
-  url: maryam
-  group: 3
+# - name: Maryam Taeb [https://maryamtaeb.github.io/](https://maryamtaeb.github.io/)
+#   photo: maryam.jpg
+#   info: Assistant Professor | Cybersecurity | AI
+#   url: maryam
+#   group: 3
 
 # - name: Brian Jalaian [https://www.brianjalaian.com/](https://www.brianjalaian.com/)
 #   photo: brian.jpg
