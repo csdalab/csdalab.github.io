@@ -50,6 +50,12 @@
   url: emmanuel
   group: 1
 
+- name: Aardra Pazhayidathu Sujatha 
+  photo: aardra.jpg
+  info: Graduate Student (data science)
+  url: aardra
+  group: 1
+
 - name: Helen Hung
   photo: helen.jpg
   info: Graduate Student (data science)
@@ -62,15 +68,9 @@
   url: richard
   group: 1
 
-- name: Aardra Pazhayidathu Sujatha 
-  photo: aardra.jpg
-  info: Graduate Student (data science)
-  url: aardra
-  group: 1
-
 - name: Christina Hoffman
   photo: christina.png 
-  info: Undergraduate Student
+  info: Graduate Student (data science)
   url: christina
   group: 1
 
@@ -78,65 +78,71 @@
 #################### Undergraduate ##############################
 #################################################################
 
-- name: Atiye Buker
-  photo: atiye.jpeg
-  info: Undergraduate Student (SURP)
-  url: atiye
-  group: 2 
 
 - name: Olivia Bunch
   photo: olivia.png 
-  info: Undergraduate Student
+  info: Undergraduate Student (CS)
   url: olivia
   group: 2
   
 - name: Lance Penaflor 
   photo: lance.jpg
-  info: Undergraduate Student
+  info: Undergraduate Student (CS)
   url: lance
   group: 2
 
 - name: Logan Selner 
   photo: logan.jpg
-  info: Undergraduate Student (SURP)
+  info: Undergraduate Student (SURP) (CE)
   url: logan
   group: 2
 
 
-- name: Simone Landry 
-  photo: simone.jpg
-  info: Undergraduate Student
-  url: simone
-  group: 2
-  year: 2025
-
-  #############################################
-  ##################### alumni #################
-  ##############################################
+#############################################
+##################### alumni #################
+##############################################
   
+- name: Atiye Buker
+  photo: atiye.jpeg
+  info: Undergraduate Student (SURP)
+  url: atiye
+  group: 8 
+  year: 2026
+
 - name: Dylan Wright 
   photo: dylan.png
   info: Graduate Student (Mathematical Science)
   url: dylan
   group: 8
+  year: 2026
 
 - name: Cheyanne Allred
   photo: cheyanne.jpg
   info: Graduate Student (data science)
   url: cheyanne
   group: 8
+  year: 2026
+
+- name: Simone Landry 
+  photo: simone.jpg
+  info: Undergraduate Student
+  url: simone
+  group: 8
+  year: 2025
 
 - name: Michael Tamascelli 
   photo: michaelT.jpg
   info: Graduate Student (University of Ferrara and UWF)
   url: michaelT
   group: 8
+  year: 2024
 
 - name: Itamar Blau
   photo: itamar.jpeg
   info: Undergraduate Student
   url: itamar
   group: 8 
+  year: 2026
 
 - name: Koushal Doddipatla 
   photo: x.jpeg
