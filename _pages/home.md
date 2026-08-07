@@ -54,7 +54,7 @@ The CSDA Lab collaborates with academic, healthcare, government, and industry pa
 - 🩺 NIH All of Us Research Program (2025-2026)
 - 🩺 Mayo Clinic (2025-2026)
 - 📈 Air Force Research Laboratory (AFRL) (2024-)
-- 📈 Florida Institute for Human & Machine Cognition (IHMC) (2024-2025)
+- 📈 Army Research Lab (ARL) and Florida Institute for Human & Machine Cognition (IHMC) (2024-2025)
 - 🩺 Andrews Research & Education Foundation (2022-)
 
 <!-- ## Methods and Technologies
