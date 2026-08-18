@@ -97,6 +97,11 @@
   url: logan
   group: 2
 
+- name: Simone Landry 
+  photo: simone.jpg
+  info: Undergraduate Student
+  url: simone
+  group: 2
 
 #############################################
 ##################### alumni #################
@@ -122,13 +127,6 @@
   url: cheyanne
   group: 8
   year: 2026
-
-- name: Simone Landry 
-  photo: simone.jpg
-  info: Undergraduate Student
-  url: simone
-  group: 8
-  year: 2025
 
 - name: Michael Tamascelli 
   photo: michaelT.jpg

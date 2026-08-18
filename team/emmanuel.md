@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Emmanuel 
-position: Undergraduate Student
+position: Graduate Student
 handle: emmanuel
 email:  
 twitter:
