@@ -38,8 +38,8 @@ Our research integrates statistical modeling, uncertainty quantification, machin
 <!-- - **Education AI**: AI advising chatbot, RAG systems, LLM, Agents. --> 
 
 
- ![]({{ site.url }}{{ site.baseurl }}/images/newspic/csdalabfa2025.jpg){: style="width: 300px; height= 600px;float: center;margin-right: 20px; border: 10px"} 
- ![]({{ site.url }}{{ site.baseurl }}/images/newspic/csdalab_fa2026.jpg){: style="width: 300px; height= 600px;float: center;margin-right: 20px; border: 10px"} 
+ <!-- ![]({{ site.url }}{{ site.baseurl }}/images/newspic/csdalabfa2025.jpg){: style="width: 300px; height= 600px;float: center;margin-right: 20px; border: 10px"}  -->
+ ![]({{ site.url }}{{ site.baseurl }}/images/newspic/csdalab_fa2026.jpg){: style="width: 600px; height= 600px;float: center;margin-right: 20px; border: 10px"} 
  *CSDA Lab meeting.*
 
 
